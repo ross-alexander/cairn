@@ -160,7 +160,10 @@ dog show they are not what they seem, but some sort of fey creatures.
 >Surely however the heroes, who are brave* and armed with faith, steel
 >and magic, will prove up to this task.
 
-The party have picked up some followers and a mule.
+Having spend some time in Latour-Rose the party have picked up some
+followers and a mule.  We acknowledge the favour owned to Monsieur
+Boutin and after collecting additional equipment and supplies from the
+town vow to set forth as the fair is winding down.
 
 - Maurice the Muleteer
 - Didier the Didier
@@ -169,57 +172,90 @@ The party have picked up some followers and a mule.
 
 ![Mule](mule.jpg){width=90%}\ 
 
-- Head north of Latour-Rose
-- Head along the road and meet the three players from Lac du Fer
-- Reach path left off the road into a forest, mostly pine
-- After an hour finding a clearing and make camp
-- Do party tricks
-- Have a safe night and we return and take the path
-- After half an hour meet a group of peasants
-- They are gathering snails & mushrooms
-- There is a group rebuilding the old temple
-- There is a beast that stalks the forest, a giant cat
-- The rebuilding started before the winter
-- The cat has been around for last few months
-- Pay the old lady 5 silver
-- The group is not too large but might attack a group of five
-- Taken onto a path leading deeper into the forest
-- The mule refuses to move so continue on without it
-- Continue on for an hour before finding some leycap mushrooms
-- Hear cat in the distance
-- The cat is shot and cloud of darkness
-- Use the fingerbone to banish the cloud of evil
-- Follow the path for another couple of hours, near to noon
-- Stash the cart off the path
-- Hide beside the path
-- See two people in black robes pushing a cart carrying a corpse
-- Only a few more nights and the great work will be done
-- Stalk the two cultists
-- Find body farm by a stream
-- There are at least half a dozen corpses
-- The body just dumped was a merchant in market, Vincent Guerin
-- Proceed on for an hour and a half until we find some wall
-- See some chapel or temple
-- Hear two people talking
-- Women looking at a book
-- Two people with wounds, by a fire
-- Kill two people and head towards a hut
-- Use Holy Water
-- Destroy censor
-- Collect book
-- Got two prisoners, woman with a burnt face and a large burly man
-- Collect up loot
-- Rescue two teenages
-- Chest is in the cellar
-- Idol on a toad god
-- Runic carving
-- 9 gold talens
-- 466 silver pieces
-- A beautiful inlaid wooden box worth perhaps 400sp
-- The box contains 1 and 1/3 Lightsucker candles
-- Paired (and very familiar) Moreno goblets worth 200sp
-- Book contains one & 3/4 spell
-- Given 200sp
-- Rescued four people
-- Town give back 200sp
+We head north from Latour-Rose and after a while meet The Three
+Players, whom we had encountered previously near Lac de Fer.  Towards
+the evening we reach the path, heading off to the left into pine
+forest, but elect to continue on for another hour and make camp in an
+existing clearing next to the road.
 
+After an evening of song, dance and tricks all have a safe night and
+leaving the group the party heads back south to the path.  After maybe
+half an hour we encounter a group of peasants gathering snails and
+mushrooms.  They say there is a group rebuilding the ruined temple
+deeper in the forst and that they had started before the winter.  While
+they group is not particularly large, and might hesitate attacking
+a group of five there has been a giant feral cat stalking the
+area for the last few months.
+
+![Snails](snails.jpg){width=90%}\ 
+
+We pay an old woman five silver pennies to show us way to the temple,
+another three to four hours further into the forest.  After a while on
+the path the mule refuses to budge so it is tied off in a thicket some
+way of the path.
+
+We continue on for a good hour before discovering some conceiled
+leycap mushrooms, a little way off the path.  While gathering them the
+cry of a wild cat is heard and it attempts to ambush the party.  With
+swift action the cat is taken down with a couple of crossbow bolts and
+as it lay wounded a cloud of darkness seeps out of its body.
+
+I present the Holy Fingerbone and calling forth the power of our Lord
+banish the evil back to the Pit.  The cat shrinks back to the size of
+an ordinary feral animal and the party, rather than slay the beast or
+leave it to die, patch it up with bandages and salves.
+
+![Cat](cat.jpg){width=90%}\ 
+
+We track through the forest for another couple of hours, staying near
+but not on the path.  Nearing the temple I stash my cart a little off
+the path and while doing so hear voices approaching along the path
+towards us.
+
+Carefully stealthing through the underbrush we spy two people in black
+robes pushing a cart with a corpse loaded onto it.  In conversation
+they say it will only be another few nights before the great work is
+done.  We track the cultists to a stream where there a number of
+bodies, possibly even half a dozen, dumped near the water.
+
+An ambush and melee ensue and both cultists are rightfully slain.  The
+corpse is that of a merchant who was in Latour-Rose for the faire, by
+the name of Vincent Guerin.
+
+Leaving the stream and grisly occupants we return back and
+after an hour and a half reach a stone wall.  Beyond is
+some sort of chapel or temple, and the sounds of a couple
+talking.
+
+Another melee ensues with one of the cultists, a woman of unknown
+description, animating two corpses with foul necromancy.  I destroy
+one with my vial of holy water and the other is eventually beaten
+down.
+
+Inside the temple there is a dark alter which is being restored
+by blood sacrifice but it cracked by me striking it with my
+lit censor.  The woman manages to escape using some sort of
+darkness magic but leaves her book behind.
+
+After it all over we capture two cultists, a woman with a burnt face
+and a large burly man.  We rescue two teenages, who are the son and
+daughter of Vincent Guerin.
+
+By the alter are stairs going into a cellar and within is a chest and
+a statue of of a toad god, which is destroyed.  Around the cellar are
+strange runes carved into its walls and on reviewing the book it seams
+the cultist leader was attempting to transcribe them.
+
+The chest reveals nine gold talens, 466 silver pennies, a beautiful
+inlaid wooden box worth perhaps 400sp, a box containing one and 1/3
+Lightsucker candles and a pair of very familiar Moreno goblets worth
+200sp.
+
+![Box](box.jpg){width=90%}\ 
+
+The book contains one and 3/4 spells, which Willhelm claims.  We
+rescue another two people leave the temple, pushing hard to get
+back to the road by night fall.  The following day we return
+to Latour-Rose and hand over the captive cultists.  Later
+we are feasted by the town and my spend items replaced by the
+church.
