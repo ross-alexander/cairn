@@ -1,0 +1,94 @@
+% ----------------------------------------------------------------------
+%
+% 2026-01-23: Take output from pandoc without standalone and manually
+% format it using lualatex
+%
+% ----------------------------------------------------------------------
+
+\documentclass{article}
+\RequirePackage[paper=a4paper,top=25mm,bottom=25mm,left=25mm,right=25mm]{geometry}
+\RequirePackage{fontspec}
+\RequirePackage{multicol}
+\RequirePackage[dvipsnames,svgnames]{xcolor}
+\RequirePackage{tikz}
+\usetikzlibrary{calc}
+
+\makeatletter
+
+\newsavebox\pandoc@box
+
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+
+\makeatother
+
+
+%% \RequirePackage{niceframe}
+
+\usepackage[object=vectorian]{pgfornament}
+
+\usepackage{eso-pic}
+\AddToShipoutPictureBG{%
+   \AtPageUpperLeft{\eachpageornament}}
+
+% Comment below if you are using the eso-pic version
+%--------------------------------------------------------------------
+% \usepackage{background}
+%--------------------------------------------------------------------
+
+
+% --------------------
+% pandoc defines tightlist
+% --------------------
+
+\def\tightlist{}
+
+% --------------------
+% Pick an interesting font for thematic reasons
+% --------------------
+
+\setmainfont{TeXGyreChorus}
+
+\begin{document}
+
+%--------------------------------------------------------------------
+% Uncomment below to obtain the same effect using the eso-pic package
+%\usepackage{eso-pic}
+%\AddToShipoutPictureBG{%
+%   \AtPageUpperLeft{\eachpageornament}}
+%--------------------------------------------------------------------
+
+% Comment below if you are using the eso-pic version
+%--------------------------------------------------------------------
+%% \backgroundsetup{%
+%% contents=\eachpageornament,%
+%% position=current page.north east,%
+%% angle=0,%
+%% scale=1,%
+%% opacity=1%
+%% }
+%--------------------------------------------------------------------
+\newcommand{\eachpageornament}{%
+\begin{tikzpicture}[remember picture, overlay,color=BrickRed]
+\node[anchor=north west] at (current page.north west){%
+\pgfornament[width=2cm]{63}};
+\node[anchor=north east] at (current page.north east){%
+\pgfornament[width=2cm,symmetry=v]{63}};
+\node[anchor=south west] at (current page.south west){%
+\pgfornament[width=2cm,symmetry=h]{63}};
+\node[anchor=south east] at (current page.south east){%
+\pgfornament[width=2cm,symmetry=c]{63}};
+\end{tikzpicture}
+}
+
+\begin{multicols}{2}
+\include{notes.tex}
+\end{multicols}
+\end{document}
