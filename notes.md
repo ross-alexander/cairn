@@ -259,3 +259,162 @@ back to the road by night fall.  The following day we return
 to Latour-Rose and hand over the captive cultists.  Later
 we are feasted by the town and my spend items replaced by the
 church.
+
+# Session 4
+
+After a short discussion it is decided Wilhelm should hold
+the Lightsucker candle, as nobody else wanted to be associated
+with such dark sorcery.  Due to its fragile nature it
+needs to be kept in a sturdy box.
+
+A few days after our return Father Jan asks if can escort
+Brother Fabien to the Priory of Ste. Elodie de la Forest, which
+is deep in the Forest du Tarascon, the same forest that
+the fallen temple is.
+
+It is pressed upon us the there is a path through the 
+forest to the priory and that while poorly tended is
+denizens of the forest will not harm those who travel
+along it.
+
+However there are bandits, and dispossessed men following the war,
+that roam the forest however and Brother Fabien carries a valuable
+hymnal so it is thought unwise for him to travel alone.
+
+The church does not offer coin for this service but rather
+will pay in gear, provisions and room and board.
+
+Brother Fabien is a large and watchful man, and strikes me as a former
+soldier who has witnessed too much war and horror for this soul to
+take.  While morose and reserved the cudgel he carried spoke
+of violence repressed.
+
+The group, five men, a mule and my hand cart, set off north
+along the road, laden with six days of travel rations.  The
+path leading to the priory is not as far along as the path
+to the temple and we camp on the road over night before
+heading in.
+
+After a couple of hours into the forest meet a group of 20 peasents
+who are forging for mushrooms and other materials.  Luca offers some
+rations and we stop and have a short second breakfast with the group.
+
+Their leader warns us to always stay on the path, for it is a blessed
+path, and provided we do not do violence to the forest the forest and
+its creatures will not harm us.  However men are not bound by this and
+they speak of a group of deserters further to the west (along the
+path).
+
+The peasents say this close to the road it is safe to stray off
+the path but they do not travel further in, particular because
+there are men further along.
+
+![Gloomy forest](gloomy-forest.jpg){width=90%}\ 
+
+We continue along, the path slowly closing in but wide enough for the
+mule and cart, until we reach a fallen tree.  Luca is a fine woodsman
+and his sharp axe makes good work, and between myself, Fabien and the
+mule we clear the cut pieces off onto the sides.  I stack up some of
+the wood onto the cart for later use.
+
+After not more than half an hour Luca detects the smell of woodsmoke
+from a recently doused fire.  I use the wood to create a small
+barricade across the cart as a form of cover, should bowmen appear.
+
+Luca steals forth and spies a camp set up on the path, with four
+tents, with five men and a single women.  Two of the men
+have bows, while the leader has an axe and the others have knives.
+
+Returning, Luca formulates a plan for myself and Fabien to wander
+towards the camp with the flagon on honey wine, singing and staggering
+as if we had imbibed too much.
+
+This occurs, and their leader, Martin the Bloody, demands we
+surrender.  Feining surprise and fright we flee back to the
+cart where Luca lies in wait.
+
+Throwing away their advantage with having bows the instead
+charge after us and are taken by complete surprise when hold
+our ground strike with weapons.
+
+We are hard pressed, with three verses five, but to my surprise
+the women stabs one of the deserters in the back and when
+he turns to remonstrate, stabs him again in the chest.  After
+that we gain the advantage, but not before Luca and Fabien
+take wounds.  Martin surrenders but before the woman, having
+finished off two of her wounded compatriots, can go to
+work on him Luca beheads him.
+
+We gather up a couple of bows and arrows, but there is little else the
+deserters have on them, or in their camp.  The women, Gaelle by name,
+claims to be held against her will.  Luca seems skeptical but
+considering she acted against them is given the benefit of the doubt.
+
+![Bandits](bandits.png){width=90%}\ 
+
+Towards the evening see torches off the path and we hear singing.  We
+all stopper our ears and avoid looking at the lights.  Camping, we set
+a watch with myself, Maurice and Armand, but are not disturbed.
+
+Travelling on for next half a day its gets slow and boggy but we find
+a stream so we wash the dirt and blood of the bandit encounter.
+
+![Pack](wolves-pack.jpg){width=90%}\ 
+
+At noon see a pack of six wolves lying across the path.  Luca
+initially tries to shoo them away with a stick and I try with the
+smoke of the censor but in the end it takes a large fire and plenty of
+smoke to drive them away.  This takes a couple of hours and its starts
+to rain.  We push on and are forced to wade waist deep through a
+puddle blocking the path.  This takes quite some time and it getting
+dark as we start moving again.
+
+After setting camp a voice calls out to us, and a satyr named Ilikon
+offers us sustenance.  After ensuring no fey trickery we welcome him
+and are plied with a fine rich wine, heady and strong.
+
+A friendly competition ensues and with my lead and Fabien's rich
+baritone accompaniment the satyr is bested and in return we are taught
+a Song of the Forest.
+
+![Satyr](satyr.jpg){width=90%}\
+
+Afterward more fey arrive and revelry ensues, with Gaelle dancing
+wildly with Ilikon.  Ilikon tries to get Gaelle to join them, and
+after much discourgement from Luca and myself, choses to go for a year
+and a day, and only with Ilikon, with the promise of a gossimer dress,
+meeting the elf king and riding of the back of a bumble bee.
+
+In return we are given the flagon of wine and warned that path goes
+near the elf kingdom, who are beautiful but fell.  In the morning all
+wounds are healed and wake up refreshed but with a hangover.
+
+![Elves](sithi.jpeg){width=90%}\
+
+Off the path are three tall slender figures with cat's eyes, silver
+hair and armed with swords and bows.  The are elves of the forest,
+their leader called Eloriel.
+
+We are invited to the Elf Court, but we all politely decline,
+although I offer to come after our task is done, for I quest
+for song and tales, and I'm intriged by their statement that
+there are places mortals can go that they cannot.
+
+The generously give a parcel of six honeycakes each of which can keep
+a man fed for a day, and an Elfwhistle which may be blown once for aid
+and then must be returned (if blown again it will still call something
+forth) and three Trueflight arrows (d12, 50% chance of being
+retreived).  I offer to quest a trifle for them and they give me fine
+wooden box in which you are to capture the laughter of a child, which
+will not rob the child of voice or future merriment.
+
+Its rains heavily through out the day so slow going but we are not
+attacked and towards the end of day see a palisade and a group of
+monks attending the area inside.
+
+We are taken to Friar Thomas and both Fabien and the hymnal are safely
+delivered.  After Evensong an early night is welcome with a warm cot
+in a dry room.
+
+![Priory](priory.jpeg){width=90%}\
+
