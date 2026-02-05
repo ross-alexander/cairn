@@ -3,11 +3,28 @@ title: Travels in the County of Joiry
 author: Friar Johannas
 ---
 
-# Fellow Travellers
+# Myself and my fellow Travellers
 
-- Debbs (Tim)
-- Willhelm (Paul)
-- Luca (Tom)
+While a man of the cloth I see my calling as collecting
+and singing the folk songs of our many varied lands.
+
+![Friar Johannas](johannas-old-clothes.jpg){width=90%}\
+
+We are travelled from the poor lands of the Auvegne, heading south to
+the Country of Joiry, known for its rich wines and good food.  Word
+has reached us of a Spring Festival in the town of Latour-Rose.
+
+My companions are an odd mix to be on the road but the presence of
+Luca the woodsman and his bloodhound Rex have proved, I am convinced,
+of a strong deterant to many a brigand and highwayman.
+
+Wilhelm the Wondrous, a conjurer of sorts, has a disarming air about
+him, with many a stranger giving him the benefit of the doubt, seemly
+out of nowhere.
+
+Last is the waif Debbs, know is local of the Country and on some
+errand to Latour-Rose.  She seems weak with weapons but her spy glass
+has come in handy many a time, for danger avoided is danger overcome.
 
 # Diary of travelling in the land of Joiry
 
@@ -42,7 +59,7 @@ bothy, with a tarp set up to to give extra cover.  On a fire was a pot
 with a rabbit stew.
 
 Their leader, a slim man called Evander, invited us to join them.
-They all looked like brigends except a young woman called Elene, a
+They all looked like brigands except a young woman called Elene, a
 servent to Andrea de Courte, a merchant from Latour-Rose.  I could not
 determine if she was a captive or not, but we were outnumbered so
 nobody wanted to push it.
@@ -122,9 +139,8 @@ for ten talens and 200 silver pennies, immediately splitting the money
 so each receive two talens.  We are recommended the Hungry Cock by
 Martin as a place to lodge for the night.
 
-Spend the remainder of the day shopping, encountering
-a number of strange people including Talak the
-Thred Merchant and Lady Snika.
+Spend the remainder of the day shopping, encountering a number of
+strange people including Talak the Thred Merchant and Lady Snika.
 
 ![Book](old-book.jpg){width=90%}\ 
 
@@ -143,6 +159,12 @@ We depart for fresh lodging.  In the proceedings Lady Snika and her
 dog show they are not what they seem, but some sort of fey creatures.
 
 ## Session 3
+
+![Johannas](johannas-new-robes.jpg){width=90%}\
+
+We spend some time in Latour-Rose, enjoying much that the fair has to
+offer, and I settle into my new clothes and carefully wear in the
+boots.
 
 >Monsieur Boutin, market-master, has a favour to ask of the heroes
 >having helped them when they arrived in Latour-Rose.
@@ -309,7 +331,7 @@ The peasents say this close to the road it is safe to stray off
 the path but they do not travel further in, particular because
 there are men further along.
 
-![Gloomy forest](gloomy-forest.jpg){width=90%}\ 
+![Gloomy forest](gloomy-forest-01.jpg){width=90%}\ 
 
 We continue along, the path slowly closing in but wide enough for the
 mule and cart, until we reach a fallen tree.  Luca is a fine woodsman
