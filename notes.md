@@ -344,28 +344,27 @@ from a recently doused fire.  I use the wood to create a small
 barricade across the cart as a form of cover, should bowmen appear.
 
 Luca steals forth and spies a camp set up on the path, with four
-tents, with five men and a single women.  Two of the men
-have bows, while the leader has an axe and the others have knives.
+tents, with five men and a single women.  Two of the men have bows,
+while the leader has an axe and the others have knives.
 
 Returning, Luca formulates a plan for myself and Fabien to wander
 towards the camp with the flagon on honey wine, singing and staggering
 as if we had imbibed too much.
 
 This occurs, and their leader, Martin the Bloody, demands we
-surrender.  Feining surprise and fright we flee back to the
-cart where Luca lies in wait.
+surrender.  Feining surprise and fright we flee back to the cart where
+Luca lies in wait.
 
-Throwing away their advantage with having bows the instead
-charge after us and are taken by complete surprise when hold
-our ground strike with weapons.
+Throwing away their advantage with having bows the instead charge
+after us and are taken by complete surprise when hold our ground
+strike with weapons.
 
-We are hard pressed, with three verses five, but to my surprise
-the women stabs one of the deserters in the back and when
-he turns to remonstrate, stabs him again in the chest.  After
-that we gain the advantage, but not before Luca and Fabien
-take wounds.  Martin surrenders but before the woman, having
-finished off two of her wounded compatriots, can go to
-work on him Luca beheads him.
+We are hard pressed, with three verses five, but to my surprise the
+women stabs one of the deserters in the back and when he turns to
+remonstrate, stabs him again in the chest.  After that we gain the
+advantage, but not before Luca and Fabien take wounds.  Martin
+surrenders but before the woman, having finished off two of her
+wounded compatriots, can go to work on him Luca beheads him.
 
 We gather up a couple of bows and arrows, but there is little else the
 deserters have on them, or in their camp.  The women, Gaelle by name,
@@ -417,10 +416,10 @@ Off the path are three tall slender figures with cat's eyes, silver
 hair and armed with swords and bows.  The are elves of the forest,
 their leader called Eloriel.
 
-We are invited to the Elf Court, but we all politely decline,
-although I offer to come after our task is done, for I quest
-for song and tales, and I'm intriged by their statement that
-there are places mortals can go that they cannot.
+We are invited to the Elf Court, but we all politely decline, although
+I offer to come after our task is done, for I quest for song and
+tales, and I'm intriged by their statement that there are places
+mortals can go that they cannot.
 
 The generously give a parcel of six honeycakes each of which can keep
 a man fed for a day, and an Elfwhistle which may be blown once for aid
@@ -440,3 +439,159 @@ in a dry room.
 
 ![Priory](priory.jpeg){width=90%}\
 
+## Session 5 - 2026.02.09
+
+>Clara, the pretty young daughter to the Baron Latour’s head laundress,
+>has gone missing. It is feared she caught the eye of the cruel Vicomte
+>de Malmont.
+
+>Clara is due to be married soon.  The head cook Mathilde asks Debb
+>and her companions to help, having befriended Debb when Wilhelm and
+>Debb were recently attending the castle. As Wilhelm entertained, Debb
+>was taken care of below stairs.
+
+>Can the heroes find Clara before she is ruined?
+
+While Luca and I make our way back from the Priory Wilhelm
+had been requested to do a command performance for the
+Baron Latour and his court.
+
+While Wilhelm was performing one of the Baron's guests, Vicomte Henri
+de Malmont by name, threw a dagger at him.  While Wilhelm was not
+injured the trick was ruined.  Later a half gold talon is also thrown
+by Malmont but this time Wilhelm caught it.
+
+![Minstrals](minstrals.png){width=90%}\ 
+
+While this was happening on stage Debbs was in the kitchen with
+Mathilde, the head cook, a large woman of maybe 40 years.  It
+seems that Debbs and Mathilde had crossed paths some years
+earlier when Debbs was in the care of nearby wise woman.
+
+- Back in Latour-Rose
+
+- Baron is a slim dark man
+
+- Malmont is a dark handsome
+
+- Chivelliar, companion of Malmont, also dark and handsome
+
+- Mathilde the cook, a woman of 40ish
+
+- Madam Chastain, head of the household, woman in early 50s, greying
+
+- Debbs is taken to the Madam Chastain
+
+- Wilhelm entertain court but Malmont throws a dagger at time at him
+  and he fails the trick
+
+- Malmont throws half a gold talon to Wilhelm
+
+- Wilhelm doing party tricks
+
+- The laundress is Leia and daughter Clara, due to be married to
+  Antoine, the son of the cobbler
+
+- Brought the kitchen in the keep
+
+- Given splices of game pie, wine, etc, quite a feast
+
+- Cook gives Luca an appreasing look
+
+- Clara as been seized and taken to the Lodge, a hunting lodge in the
+  forest
+
+- They hunt people and if they evade the hunters they get coin,
+  otherwise they are marked
+
+- Get packed provisions
+
+- The cobbler is Antoine, the gate guard and gardener
+
+- There could be five or six people kept guard 
+
+- Huntsman called Serge
+
+- One guard Pierre is a good person
+
+- Get garlic salts and dog meat
+
+- Luca get a flask of fortified port
+
+- Load of the cart and Armand
+
+- Set off at lunchtime
+
+- Luca's mouse makes a re-apperance
+
+- Make camp off the road and have a quiet night
+
+- Luca chops some trees down to block the path
+
+- Carve a warning into a downed tree to pretend we are the Merry
+  Bandits of Latour-Rose
+
+- Candle lasts a couple of hours per use but make the volume pitch
+  black
+
+- Arrive around 2pm into some woods and see a palisade with a lodge
+within, see a gate post
+
+- There is a gate with a guard house outside and a small gatekeeper's
+  lodge inside
+
+- Maybe half a dozen beaters and same number of guards
+
+- The palisade is solid and well kept
+
+- Decide Debbs tries dazzle the guards
+
+- Luca kills one with his axe
+
+- Second shot with a crossbow and then Luca axes him
+
+- Wilhelm charms the guard inside
+
+- Two guards start coming out the gate
+
+- There is a gatehouse with a small fence
+
+- Cleared around the wall to about 10 feet
+
+- Alex & Bruno also coming
+
+- Score (24) also as company
+
+- Two more guards in the house, half dozen beaters
+
+- Serge
+
+- Pierre is in the house
+
+- The hounds are out and traps
+
+- Kill guard
+
+- Luca attacked by the hounds and four are killed, two run away
+
+- Burly guy with shaggy hair with a large axe
+
+- Wilhelm is taken down
+
+- I take down Serge
+
+- Everybody else in the house flees
+
+- Find a dungeon in the cellar
+
+- Rescue prisoners
+
+- Flee with the rescued prisoners
+
+- Debbs sets fire to the Lodge
+
+- Retreat back to Latour-Rose
+
+- Luca and the cook disappear off stage
+
+- The Vicomte and his man leaves for Lucanne
