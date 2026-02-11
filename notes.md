@@ -468,130 +468,136 @@ Mathilde, the head cook, a large woman of maybe 40 years.  It
 seems that Debbs and Mathilde had crossed paths some years
 earlier when Debbs was in the care of nearby wise woman.
 
-- Back in Latour-Rose
+It seems Mathilde has taken a shine to Debb and introduced her to the
+head of the baronial household, a Madam Chastain, who, while skeptical
+of Debb, accepted her desire to learn to dance is a genuine attempt
+to improve herself and her station, and organised some introductory
+lessons with one of the dance masters.
 
-- Baron is a slim dark man
+The following day Luca and I return and Debb says Mathilde has
+requested assistance from the party.  Within the household there is a
+laundress named Leia, who has a daughter Clara.  She is due to be
+married to the son of Antoine, the cobbler and some times town guard.
 
-- Malmont is a dark handsome
+When we are arrive, some time midmorning, we are plied with a
+proverbial feast of game pie, wine and other quality food and
+beverage.  While the rest of us tucked in to the fine spread Mathilde
+and Luca seem to be passing heavy looks between each other, possibly
+more than what is appropriate in casual company.
 
-- Chivelliar, companion of Malmont, also dark and handsome
+![The kitchen](kitchen.jpg){width=90%}\ 
 
-- Mathilde the cook, a woman of 40ish
+We are told that Clara has gone missing and it is feared she has been
+taken by the agents of de Malmont, for whom stories tell that he takes
+captives to his hunting grounds in the Foret de Tarascon and hunts
+them for cruel sport, given gold to those few that escape but
+otherwise inflicting punishment on those re-captured.
 
-- Madam Chastain, head of the household, woman in early 50s, greying
+We decide to set off to this lodge, collecting some garlic salts and
+spoiled meat to confounds the hounds of the hunts, while Luca is given
+a flask of fortified port and all given a fine packed spread for the
+road.
 
-- Debbs is taken to the Madam Chastain
+Antoine joins us for the road for he has been there before as part of
+this guarding duties.  He tells there may be half a dozen guards at
+the hunting lodge but one of the, Pierre, is a good man come upon hard
+times, and may be turned.  They are said to be lead by master huntsman,
+Serge, a brutal and cruel man.
 
-- Wilhelm entertain court but Malmont throws a dagger at time at him
-  and he fails the trick
+It is near moon by the time we set off and travel along the now well
+known road to the north.  At some point Luca's rodent travelling
+companion makes its appearance again, much to Antoine's surprise.
 
-- Malmont throws half a gold talon to Wilhelm
+![Woods](woods.jpg){width=90%}\ 
 
-- Wilhelm doing party tricks
+After a quiet and peaceful night camping near the road we enter the
+forest down a well kept path.  Luca finds a pinch in the path and
+fells several trees to form a substantial baracade, carving into it
+words to the effect that it is the work of the Merry Bandits of
+Latour-Rose.
 
-- The laundress is Leia and daughter Clara, due to be married to
-  Antoine, the son of the cobbler
+On a side note the Candle lasts a couple of hours per use but make the
+volume pitch black.
 
-- Brought the kitchen in the keep
+A short few hours after noon we reach the hunting grounds, a high
+palisade encircling them with a single large gate through.  Somewhere
+inside is the lodge itself.  Luca scouts the perimeter and finds a
+number of places where trees have overground the wall but we would not
+be able to get the mule or cart across.
 
-- Given splices of game pie, wine, etc, quite a feast
+There is a guard hut outside the gates with two guards.  Antoine
+indicates there will be maybe half a dozen guards all up, a similar
+number of beaters, and possibly a score of servants in the lodge.
 
-- Cook gives Luca an appreasing look
+![Palisade](palisade.jpg){width=90%}\ 
 
-- Clara as been seized and taken to the Lodge, a hunting lodge in the
-  forest
 
-- They hunt people and if they evade the hunters they get coin,
-  otherwise they are marked
+Debb tries of distract the two guards while Luca stealths forward.
+Debb spills the fine packed lunch, for which I am still upset about
+it, and one of the guards scrabbles to retrieve the food.  Then
+without warning Luca strikes own down with a savage blow of the axe
+while the second is cut down with crossbow fire before Luca finishes
+him off.
 
-- Get packed provisions
+The two other guards, who where inside the gate, come out to see what
+is going off.  Wilhelm charms one of them while the other flees, Luca
+going off in persuit.  We enter through the open gate and stable the
+mule by the guard house, which has a small fence around it.  The
+inside of the grounds is much like the woods we had travelled though
+save an area around 10 feet from the palisade has been cleared, making
+escape a difficult prospect.
 
-- The cobbler is Antoine, the gate guard and gardener
+While Wilhelm distracts his new found friend Debb departs after Luca.
+After a bit we hear dogs and Antoine says the beaters and huntsmaster
+will be out setting traps.
 
-- There could be five or six people kept guard 
+Wilhelm and I, along with the last of the gate guards, heads
+down a well maintained path towards the lodge.  A little way
+along we both attack the guard, slaying him, and hide the
+body in the trees.
 
-- Huntsman called Serge
+From the distance we can hear horns, the baying of hounds and other
+comotion, so we push on and reach the lodge.  The call has gone up so
+I crash though a window before it can be secured by shutters, the
+servant fleeing before me.  Wilhelm follows, his dash across from the
+trees not noticed by the group at the main entrance.
 
-- One guard Pierre is a good person
+Inside we sneak along a corridor, ducking into a side room
+near the entrance.  From outside a bloody and enraged Luca
+starts rending the door with his axe while Debb screams
+the Red Cap will take them all.
 
-- Get garlic salts and dog meat
+Inside mutiny and chaoas reign and I attempt to surprise Serge with a
+crafty crossbow attack.  He charges us and I manage to duck and strike
+him in his manhood, but not before Wilhelm suffers a new mortal blow.
+I finish Serge off with a crushing blow to the back of the head and
+we are almost attacked by Luca in his red mist.
 
-- Luca get a flask of fortified port
+While Debb sees to Wilhelm Luca and I canvas the lodge, finding the
+prisoners in a cell in the cellar.  After quite some time everybody
+collects themselves and we head back towards to gate, the remaining
+servants, guards and beaters no where to be seen.
 
-- Load of the cart and Armand
+![Fire](debb-fire.jpg){width=90%}\
 
-- Set off at lunchtime
+We collect our assorted company from the gatehouse and Luca sets
+a trap he had found on the path.  Debb arrives late, having
+set the lodge ablaze.  We take a crafty path back through the
+forest, missing de Malmont but by a few short minutes.
 
-- Luca's mouse makes a re-apperance
+A day later we return to Latour-Rose.  I leave to join evensong at the
+chapel, the others to our lodgings and Luca to some secluded pantry
+with the grateful Mathilde.
 
-- Make camp off the road and have a quiet night
+Later de Malmont, his man companion Le Chevalier Roger Lavigne, his
+man Alex and guard Bruno, along with his retinue, also arrive back in
+Latour-Rose.  Rumours from the street are that he was incandescent
+with rage for the fire had gutted his lodge, but also his evil deeds
+had stirred the forest against him and sent forth a revenant to
+deliver justice and punishment.
 
-- Luca chops some trees down to block the path
+The Vicomte and company depart Latour-Rose the following day while
+I contemplate the breaking in a new pair of travelling boots
+hand crafted by Antoine.
 
-- Carve a warning into a downed tree to pretend we are the Merry
-  Bandits of Latour-Rose
-
-- Candle lasts a couple of hours per use but make the volume pitch
-  black
-
-- Arrive around 2pm into some woods and see a palisade with a lodge
-within, see a gate post
-
-- There is a gate with a guard house outside and a small gatekeeper's
-  lodge inside
-
-- Maybe half a dozen beaters and same number of guards
-
-- The palisade is solid and well kept
-
-- Decide Debbs tries dazzle the guards
-
-- Luca kills one with his axe
-
-- Second shot with a crossbow and then Luca axes him
-
-- Wilhelm charms the guard inside
-
-- Two guards start coming out the gate
-
-- There is a gatehouse with a small fence
-
-- Cleared around the wall to about 10 feet
-
-- Alex & Bruno also coming
-
-- Score (24) also as company
-
-- Two more guards in the house, half dozen beaters
-
-- Serge
-
-- Pierre is in the house
-
-- The hounds are out and traps
-
-- Kill guard
-
-- Luca attacked by the hounds and four are killed, two run away
-
-- Burly guy with shaggy hair with a large axe
-
-- Wilhelm is taken down
-
-- I take down Serge
-
-- Everybody else in the house flees
-
-- Find a dungeon in the cellar
-
-- Rescue prisoners
-
-- Flee with the rescued prisoners
-
-- Debbs sets fire to the Lodge
-
-- Retreat back to Latour-Rose
-
-- Luca and the cook disappear off stage
-
-- The Vicomte and his man leaves for Lucanne
+![Boots](boots.png){width=90%}\
