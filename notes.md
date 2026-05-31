@@ -8,7 +8,7 @@ author: Friar Johannas
 While a man of the cloth I see my calling as collecting
 and singing the folk songs of our many varied lands.
 
-![Friar Johannas](johannas-old-clothes.jpg){width=90%}\
+![Friar Johannas](johannas-old-clothes.jpg){width=100%}\
 
 We are travelled from the poor lands of the Auvegne, heading south to
 the Country of Joiry, known for its rich wines and good food.  Word
@@ -43,7 +43,7 @@ goblins with my scepter and the remaining fled.
 I bribe the wolf with a ration of dried meat, for which it was
 satisfied and disappeared into the darkness.
 
-![Timber Wolf](timber-wolf.jpg){width=90%}\
+![Timber Wolf](timber-wolf.jpg){width=100%}\
 
 - Use ration for wolf
 
@@ -52,7 +52,7 @@ a hill some distance away.  We hurried on towards a flickering fire in
 the distance, finding the fire outside a small stony bothy by the
 roadside.
 
-![Bothy](bothy.jpg){width=90%}\
+![Bothy](bothy.jpg){width=100%}\
 
 A group of half a dozen ne'er-do-wells were already occupying the
 bothy, with a tarp set up to to give extra cover.  On a fire was a pot
@@ -73,7 +73,7 @@ meat for all our group with some to spare.  I broke out my jug of
 honey wine and shared it around the whole group, reducing the
 tension and quite possibly saving us from violence.
 
-![Jug of wine](jug.jpg){width=90%}\
+![Jug of wine](jug.jpg){width=100%}\
 
 Both parties eventually settled down for the night, with each group
 setting a watch.  Some time towards dawn the wolf made an appearance
@@ -91,7 +91,7 @@ However mindful of the valuable cargo we were carrying and our few
 numbers I held my wrath in check.  We were forced to sell one of the
 glass goblets to the local bargeman for passage across the lake.
 
-![Lac-de-fer](lac-de-fer.jpeg){width=90%}\ 
+![Lac-de-fer](lac-de-fer.jpeg){width=100%}\ 
 
 On the barge we were accopanied by The Three Players, a troupe of
 entertainers named Yslen the Magnificent, Breagle the Strong and
@@ -125,7 +125,7 @@ as taxes.  The alternative is to set up in the Pauper's square, which
 costs nothing, apart from the tax.  However selling valuable items in
 the pauper's square is to invite theft and there will be few buyers.
 
-![Glassware](glassware.jpg){width=90%}\ 
+![Glassware](glassware.jpg){width=100%}\ 
 
 Henri the guard clears a path to M d'Salice and M Boutin quietly
 suggests not taking anything less than ten talens for glass.  After a
@@ -142,7 +142,7 @@ Martin as a place to lodge for the night.
 Spend the remainder of the day shopping, encountering a number of
 strange people including Talak the Thred Merchant and Lady Snika.
 
-![Book](old-book.jpg){width=90%}\ 
+![Book](old-book.jpg){width=100%}\ 
 
 - Spent 1 talents buying a new set of cloths
 - Spent 1 talent on book and hourglass
@@ -160,7 +160,7 @@ dog show they are not what they seem, but some sort of fey creatures.
 
 ## Session 3
 
-![Johannas](johannas-new-robes.jpg){width=90%}\
+![Johannas](johannas-new-robes.jpg){width=100%}\
 
 We spend some time in Latour-Rose, enjoying much that the fair has to
 offer, and I settle into my new clothes and carefully wear in the
@@ -192,7 +192,7 @@ town vow to set forth as the fair is winding down.
 - Armand the Mendicant
 - Rayée (mule)
 
-![Mule](mule.jpg){width=90%}\ 
+![Mule](mule.jpg){width=100%}\ 
 
 We head north from Latour-Rose and after a while meet The Three
 Players, whom we had encountered previously near Lac de Fer.  Towards
@@ -209,7 +209,7 @@ they group is not particularly large, and might hesitate attacking
 a group of five there has been a giant feral cat stalking the
 area for the last few months.
 
-![Snails](snails.jpg){width=90%}\ 
+![Snails](snails.jpg){width=100%}\ 
 
 We pay an old woman five silver pennies to show us way to the temple,
 another three to four hours further into the forest.  After a while on
@@ -227,7 +227,7 @@ banish the evil back to the Pit.  The cat shrinks back to the size of
 an ordinary feral animal and the party, rather than slay the beast or
 leave it to die, patch it up with bandages and salves.
 
-![Cat](cat.jpg){width=90%}\ 
+![Cat](cat.jpg){width=100%}\ 
 
 We track through the forest for another couple of hours, staying near
 but not on the path.  Nearing the temple I stash my cart a little off
@@ -273,7 +273,7 @@ inlaid wooden box worth perhaps 400sp, a box containing one and 1/3
 Lightsucker candles and a pair of very familiar Moreno goblets worth
 200sp.
 
-![Box](box.jpg){width=90%}\ 
+![Box](box.jpg){width=100%}\ 
 
 The book contains one and 3/4 spells, which Willhelm claims.  We
 rescue another two people leave the temple, pushing hard to get back
@@ -313,6 +313,8 @@ road, laden with six days of travel rations.  The path leading to the
 priory is not as far along as the path to the temple and we camp on
 the road over night before heading in.
 
+![Gloomy forest](gloomy-forest-01.jpg){width=100%}\ 
+
 After a couple of hours into the forest meet a group of 20 peasents
 who are forging for mushrooms and other materials.  Luca offers some
 rations and we stop and have a short second breakfast with the group.
@@ -326,8 +328,6 @@ path).
 The peasents say this close to the road it is safe to stray off
 the path but they do not travel further in, particular because
 there are men further along.
-
-![Gloomy forest](gloomy-forest-01.jpg){width=90%}\ 
 
 We continue along, the path slowly closing in but wide enough for the
 mule and cart, until we reach a fallen tree.  Luca is a fine woodsman
@@ -367,7 +367,7 @@ deserters have on them, or in their camp.  The women, Gaelle by name,
 claims to be held against her will.  Luca seems skeptical but
 considering she acted against them is given the benefit of the doubt.
 
-![Bandits](bandits.png){width=90%}\ 
+![Bandits](bandits.png){width=100%}\ 
 
 Towards the evening see torches off the path and we hear singing.  We
 all stopper our ears and avoid looking at the lights.  Camping, we set
@@ -376,7 +376,7 @@ a watch with myself, Maurice and Armand, but are not disturbed.
 Travelling on for next half a day its gets slow and boggy but we find
 a stream so we wash the dirt and blood of the bandit encounter.
 
-![Pack](wolves-pack.jpg){width=90%}\ 
+![Pack](wolves-pack.jpg){width=100%}\ 
 
 At noon see a pack of six wolves lying across the path.  Luca
 initially tries to shoo them away with a stick and I try with the
@@ -394,7 +394,7 @@ A friendly competition ensues and with my lead and Fabien's rich
 baritone accompaniment the satyr is bested and in return we are taught
 a Song of the Forest.
 
-![Satyr](satyr.jpg){width=90%}\
+![Satyr](satyr.jpg){width=100%}\
 
 Afterward more fey arrive and revelry ensues, with Gaelle dancing
 wildly with Ilikon.  Ilikon tries to get Gaelle to join them, and
@@ -406,7 +406,7 @@ In return we are given the flagon of wine and warned that path goes
 near the elf kingdom, who are beautiful but fell.  In the morning all
 wounds are healed and wake up refreshed but with a hangover.
 
-![Elves](sithi.jpeg){width=90%}\
+![Elves](sithi.jpeg){width=100%}\
 
 Off the path are three tall slender figures with cat's eyes, silver
 hair and armed with swords and bows.  The are elves of the forest,
@@ -433,7 +433,7 @@ We are taken to Friar Thomas and both Fabien and the hymnal are safely
 delivered.  After Evensong an early night is welcome with a warm cot
 in a dry room.
 
-![Priory](priory.jpeg){width=90%}\
+![Priory](priory.jpeg){width=100%}\
 
 ## Session 5 - 2026.02.09
 
@@ -457,7 +457,7 @@ de Malmont by name, threw a dagger at him.  While Wilhelm was not
 injured the trick was ruined.  Later a half gold talon is also thrown
 by Malmont but this time Wilhelm caught it.
 
-![Minstrals](minstrals.png){width=90%}\ 
+![Minstrals](minstrals.png){width=100%}\ 
 
 While this was happening on stage Debbs was in the kitchen with
 Mathilde, the head cook, a large woman of maybe 40 years.  It
@@ -481,7 +481,7 @@ beverage.  While the rest of us tucked in to the fine spread Mathilde
 and Luca seem to be passing heavy looks between each other, possibly
 more than what is appropriate in casual company.
 
-![The kitchen](kitchen.jpg){width=90%}\ 
+![The kitchen](kitchen.jpg){width=100%}\ 
 
 We are told that Clara has gone missing and it is feared she has been
 taken by the agents of de Malmont, for whom stories tell that he takes
@@ -504,7 +504,7 @@ It is near moon by the time we set off and travel along the now well
 known road to the north.  At some point Luca's rodent travelling
 companion makes its appearance again, much to Antoine's surprise.
 
-![Woods](woods.jpg){width=90%}\ 
+![Woods](woods.jpg){width=100%}\ 
 
 After a quiet and peaceful night camping near the road we enter the
 forest down a well kept path.  Luca finds a pinch in the path and
@@ -525,7 +525,7 @@ There is a guard hut outside the gates with two guards.  Antoine
 indicates there will be maybe half a dozen guards all up, a similar
 number of beaters, and possibly a score of servants in the lodge.
 
-![Palisade](palisade.jpg){width=90%}\ 
+![Palisade](palisade.jpg){width=100%}\ 
 
 
 Debb tries of distract the two guards while Luca stealths forward.
@@ -572,7 +572,7 @@ prisoners in a cell in the cellar.  After quite some time everybody
 collects themselves and we head back towards to gate, the remaining
 servants, guards and beaters no where to be seen.
 
-![Fire](debb-fire.jpg){width=90%}\
+![Fire](debb-fire.jpg){width=100%}\
 
 We collect our assorted company from the gatehouse and Luca sets
 a trap he had found on the path.  Debb arrives late, having
@@ -590,11 +590,12 @@ with rage for the fire had gutted his lodge, but also his evil deeds
 had stirred the forest against him and sent forth a revenant to
 deliver justice and punishment.
 
+![Boots](boots.png){width=100%}\
+
 The Vicomte and company depart Latour-Rose the following day while
 I contemplate the breaking in a new pair of travelling boots
 hand crafted by Antoine.
 
-![Boots](boots.png){width=90%}\
 
 ## Session 6 - 2026.05.27
 
@@ -620,173 +621,186 @@ hand crafted by Antoine.
 > nobleman by name Ciprian Albescu.  Not that it matters since it’s
 > offscreen.
 
-- Approching Lussan
-
-- Nearby village Chames du Bois
-
-- Summertime and the living is easy
-
-![Country Road](countryroad.jpg){width=90%}\ 
-
-
-- Road was cobbled
-
-- Stop for lunch in a shady glade
-
-- Know the bandits is after the village
-
-
-
-- There is a stream and shrine after that, seems to be holy
-
-- Fellow comes down the road with a mule pulling a cart, carrying
-  wrapped packages and bottle
-
-- Gilles is a peddlar and knife sharpener
-
-- Traveller indicates a holy sign when hear about the bandits
-
-- Traveller speaks that the bandits are men that take on
-the form of beasts
-
-- The town has a large inn as it used to be busy trading town
-
-- Head to the village after a couple of hours of
-travel
-
-- Stream goes through the middle of the town
-
-- The Leaping Fish is the inn
-
-- Girard is the landlore with his some Mattieu
-
-- Gerrard has massive sideburns but looks haggard
-
-- Garden area at the back of the inn that look over the stream
-
-- There is a couple of dogs
-
-- His daughter, Jacquette, has been missing for the last three months
-
-- She packed her finest cloths and left to the west
-
-- Darked haired and beautiful, bored of living in the village and a
-  little wild
-
-- Head a couple of hours to the west, the stream is fast running
-but can be forded
-
-- Shrine is on this side and is well kept
-
-- Bucket on a windlass crosses the stream
-
-- Sense we are being watched across the stream
-
-- Light censor to hide out passage
-
-- Travellers came through a month back and had lost one of the number
-and headed south to La Tour
-
-- Few people gone missing, Old Guiot, the Cunning Man and his servant
-  Adam
-
-- Get half a dozen wine jugs to fill with the stream water
-
-- Attacks only happen in the hours of darkness
-
-- Woodsman cabin further on then a ruin of a stone watchtower
-
-- Reaches a much larger road that cuts through the forest
-
-- Travel light as the others return to the village
-
-- Find a corpse of a deer that has been torn apart and killed last
-night by a pack of creatures
-
-- Find a corpse of a headless rabbit draped over a treelimb
-
-- Scent that killed the rabbit is not the same as that killed the rabbit
-
-- Rex tracks the scent
-
-- Find dolman or cave made from rocks and we hear a man's voice
-
-- There is old hermit and Luca pulls him out into the sun and
-pours holy water over him
-
-- Vermin swamp from him and his cries out "Spare Old Guiot"
-
-- Adam roves the wood as a madman
-
-- Three bandits, Guillaume, Robert et Henri, the three 'bandits', who
-serves a master who has gone to Lusan
-
-- Old Guiot went across the river as he heard there are powers
-
-- Henri wooed Jaquette
-
-- The bandits in the woodsman cabin
-
-- It is large and single storied
-
-- There are several rooms to the place
-
-- Luca sneaks up and it dark and musty inside
-
-- There is a kitchen and a large amount of stray
-
-- At the back there a large barn
-
-- Luca bars the doors and sets fire to the place
-
-- Three curled up in the hay in the middle of cabin
-
-- Set fire to the place
-
-- Light the censor and push the smoke
-
-- Big man with red hair with a mattock
-
-- Weedy man
-
-- Pour holy water over weedy man
-
-- Strike weedy man
-
-- Behead both and burn the bodies
-
-- Untie Old Guiot
-
-- Follow the trail and heading west
-
-- Adam was lured out by old Guiot
-
-- Use the fingerbone to remove the curse
-
-- Adam dies in peace
-
-- Follow the person who ran and reach the ruined tower
-
-- Big enough for a large cart
-
-- Collect some wood
-
-- The mouse stabs the man
-
-- Hear a woman's voice
-
-- Shady because trees grown up inside
-
-- Handsome man with a dagger
-
-- Use holy water on him
-
-- Behead and burn the bodies
-
-- Search the tower and find a chest
-
-- Next few days collect the stolen good
-
-- Old Guiot used magic to spy on people
-
+Luca and myself, and our companions, are nearlying Lussan
+when we leave the main road and head towards Chames du Bois,
+while Debb and Wilhelm head directly to Lussan.
+
+It is summer time now and the land is rich with fruit, berries and
+game.  The road to Chames du Bois is cobbled but has not seen much
+travel of recent.
+
+![Country Road](countryroad.jpg){width=100%}\ 
+
+We stop for lunch and take our ease for the note indicates the
+problems are beyond the village and there has been no troubles on this
+section of the road.  Finding a shady glade by the roadside I hunt for
+some mushrooms like Luca takes his easy.
+
+Not long after we settle a traveller comes down the road with a mule
+pulling a cart, which seems to be carrying many wrapped packages and
+bottles.
+
+He introduces himself as Gilles the peddlar, but also does
+a side trade in sharpening knives.
+
+He describes the town of Chames du Bois, with its large inn called the
+Leaping Fish, and the small stream running though it.  He tells
+us a few hours beyond that is a much larger stream, swift flowing
+in places but easily forded where it meets the road.  There is
+a shrine to Ste. Elodie de la Forest, and the stream itself
+is holy.
+
+After making a holy sign he also warns us beyond the stream
+are the bandits and it is rumoured they are capable of
+taking the form of terrible beasts.
+
+After a fine lunch of fried mushrooms and onions with some spicy
+salami, disturbed only by Gilles sharpening Luca's axe for a modest
+fee, we set of again, with Gilles joining us, his day done.
+
+Entering the village of Chames du Bois the impressive inn greets us as
+it by far the most substantial building in the village.  We reach the
+inn and are greeted by the landlord Girard and his son Mattieu.
+Girard has a fine set of sideburns but there is a haggard look to him.
+
+We decamp to the back of the inn where there is a garden that
+overlooks the stream.  There a couple of dogs lazy in the run.  Luca
+and I, along with our companions, slake our thirst with some cellar
+chilled ale.
+
+![Inn stream](inn-stream.jpg){width=100%}\
+
+Girard, after some prompting from Luca, reveals this daughter,
+Jacquette, a dark haired, beautiful and a little wild, bored of living
+in the village, packed her finest cloths and left for the west.
+
+As it summer and daylight to spare, Luca and myself leave the others
+and head along the road to the west, reaching the stream as the sun is
+starting to settle.  On this side of the stream is a small shrine, not
+large enough for a person to enter, well kept with with many offering.
+Across the stream a bucket on a windlass, so that the stream water can
+be captured without entering the stream itself.
+
+I get the sense we are being watched from across the river but nothing
+can be seen in the twilight.  We head back to the village with the
+feeling of being under observation right up until we reach the village
+proper.
+
+Returning to the inn it is busier then I would have expected and it
+felt like the whole village had turned out for us.  From the locals we
+hear a group of travellers had come through a month back from the west
+and had lost one of the number, before headed south to Latour.  I feel
+they must have some standing for we are well outside the realm of
+Baron de Latour.
+
+We also hear that Old Guiot, the local Cunning Man, and his servant
+Adam, have also gone missing in the last few months.  Upon
+hearing of the quality of the water from the stream Luca and I
+get half a dozen old wine jugs to be filled.  The attacks
+themselves seen only to happen at night.
+
+The road beyond the stream passes and woodman's cabin and futher after
+that an old ruin.  Eventually it reaches a much larger road that cuts
+through the forest.
+
+In the morning we set out as a group but Luca feels we will be better
+without our companions and cart, so they are sent back to the village
+while we ford the stream, fill the wine jugs and continue on.
+
+![Ford](ford-crossing.jpg){width=100%}\ 
+
+After some time we find a corpse of a deer that has been torn apart
+and killed last night by a pack of creatures.  There is a sense of
+wanton destruction and an this is the result of an act of evil most
+foul.
+
+A little later we find the headless corpse of a rabbit draped over a
+tree limb.  Luca's hound Rex is less repelled by the scent and
+gives the impression this was not done by the same group.  With
+that Rex tracks the scent and we find a small rock cave and
+from within a man's voice can be heard.
+
+Luca enters and there is an old hermit, whom Luca drags
+out into the sun and pours some stream water over him.  The hermit
+screams and vermin swarm from him and attack Luca, without
+any real success.  The hermit then cries "Spare Old Guiot",
+which we do, instead binding him.
+
+Guiot says his servant is now a madman that roves the forest but is
+not the source of the attacks.  Instead there are three, named
+Guillaume, Robert et Henri, the three 'bandits', who serves a master
+who has gone to Lussan.
+
+After more questioning Old Guiot admits to crossing the river after
+hearing rumours that power could be had there.  He also says Henri
+wooed Jacquette and she crossed the river to be with him, and
+the bandits currently reside in the woodman's cabin.
+
+Taking Guiot with us we proceed to the cabin, which is much larger
+than I expected, a single story with several rooms and a large barn at
+the back.
+
+Luca sneaks forth but it dark and musty inside, but does make out a
+kitchen and another room with a large amount of straw.  His mouse then
+sneaks in to scout and report back, and after some time returns,
+saying there are three men curled up in the hay in the middle of the
+cabin, presumably asleep.
+
+![Burning Cabin](burning-cabin.jpg){width=100%}\ 
+
+We quietly bar and block the doors as best we can then set fire to the
+buildings.  I light my censor and waft the smoke towards the burning
+cabin.  A big man with a large mattock breaks out and attacks Luca
+while I deal with a much smaller, weedy man.
+
+With the use of more stream water and melee strikes we take both of
+them down, however Luca has his left arm broken in the process.  As it
+becomes clear the third has escaped through another exit we quickly
+behead the two slain and through their bodies into the flames.
+
+Untiling Old Guiot we follow Rex West through the forest in pursuit of
+Henri.  However before we can catch up Adam crashes out of the from
+the trees.  Old Guiot flees as we turn to face the lumbering youth,
+but rather than attack us he breaks down and begs that we kill and
+behead himself.
+
+We pour more stream water over Adam but while it burns him it does not
+cure his madness.  He says that he was lured by Old Guiot to be a
+sacrifice so that Old Guiot could gain additional life.
+
+I bring forth my holy relic and use it to purge the curse from
+Adam.  While the curse is instead lifted the curse had done
+its dark work and filled his body with unnatural life.  With
+the curse gone Adam passes in peace.
+
+We continue our persuit although we are now some distance behind but
+eventually reach the ruined tower, which is mostly fallen down but
+there is an entrance large enough for a large cart to pass through.
+
+![Tower](ruined-tower.jpg){width=100%}\ 
+
+
+We collect some wood and once again sent in the mouse of scout.
+Before the mouse can return there is a man's shout and a woman's voice
+in reply.  We charge in and it surprisingly shady, with trees
+having grown up inside the fallen walls.
+
+Henri attacks me with a dagger while Jacquette feinds helplessness.
+Henri tries to flee from my attack through a small gap in the brush
+but Rex hamstrings him and I use my vial of holy water on him
+and then bludgen him with my scepter.
+
+I drag the corpse out of the ruin while Luca sees to Jacquette.  To my
+initial confusion Luca suddenly strikes her and between us slay her.
+Luca then confessses she tried to ensorcel him.  With the wood we
+build a pyre and after beheading the corpses burn the bodies.
+
+We search the tower and find a chest.  We return back to the village
+before night fall then over the next few days collect the stolen goods
+from the tower and the remains of the cabin.
+
+We tell the village of Old Guiot and Adam, and it turns out he used to
+spy on people with his magic, but of Jacquette nothing is said except
+that nothing was seen of her and she must of made it through safely
+and is living a new life elsewhere.
 
