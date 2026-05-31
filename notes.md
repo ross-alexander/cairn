@@ -276,46 +276,42 @@ Lightsucker candles and a pair of very familiar Moreno goblets worth
 ![Box](box.jpg){width=90%}\ 
 
 The book contains one and 3/4 spells, which Willhelm claims.  We
-rescue another two people leave the temple, pushing hard to get
-back to the road by night fall.  The following day we return
-to Latour-Rose and hand over the captive cultists.  Later
-we are feasted by the town and my spend items replaced by the
-church.
+rescue another two people leave the temple, pushing hard to get back
+to the road by night fall.  The following day we return to Latour-Rose
+and hand over the captive cultists.  Later we are feasted by the town
+and my spend items replaced by the church.
 
 # Session 4
 
-After a short discussion it is decided Wilhelm should hold
-the Lightsucker candle, as nobody else wanted to be associated
-with such dark sorcery.  Due to its fragile nature it
-needs to be kept in a sturdy box.
+After a short discussion it is decided Wilhelm should hold the
+Lightsucker candle, as nobody else wanted to be associated with such
+dark sorcery.  Due to its fragile nature it needs to be kept in a
+sturdy box.
 
-A few days after our return Father Jan asks if can escort
-Brother Fabien to the Priory of Ste. Elodie de la Forest, which
-is deep in the Forest du Tarascon, the same forest that
-the fallen temple is.
+A few days after our return Father Jan asks if can escort Brother
+Fabien to the Priory of Ste. Elodie de la Forest, which is deep in the
+Forest du Tarascon, the same forest that the fallen temple is.
 
-It is pressed upon us the there is a path through the 
-forest to the priory and that while poorly tended is
-denizens of the forest will not harm those who travel
-along it.
+It is pressed upon us the there is a path through the forest to the
+priory and that while poorly tended is denizens of the forest will not
+harm those who travel along it.
 
 However there are bandits, and dispossessed men following the war,
 that roam the forest however and Brother Fabien carries a valuable
 hymnal so it is thought unwise for him to travel alone.
 
-The church does not offer coin for this service but rather
-will pay in gear, provisions and room and board.
+The church does not offer coin for this service but rather will pay in
+gear, provisions and room and board.
 
 Brother Fabien is a large and watchful man, and strikes me as a former
 soldier who has witnessed too much war and horror for this soul to
 take.  While morose and reserved the cudgel he carried spoke
 of violence repressed.
 
-The group, five men, a mule and my hand cart, set off north
-along the road, laden with six days of travel rations.  The
-path leading to the priory is not as far along as the path
-to the temple and we camp on the road over night before
-heading in.
+The group, five men, a mule and my hand cart, set off north along the
+road, laden with six days of travel rations.  The path leading to the
+priory is not as far along as the path to the temple and we camp on
+the road over night before heading in.
 
 After a couple of hours into the forest meet a group of 20 peasents
 who are forging for mushrooms and other materials.  Luca offers some
@@ -452,9 +448,9 @@ in a dry room.
 
 >Can the heroes find Clara before she is ruined?
 
-While Luca and I make our way back from the Priory Wilhelm
-had been requested to do a command performance for the
-Baron Latour and his court.
+While Luca and I make our way back from the Priory Wilhelm had been
+requested to do a command performance for the Baron Latour and his
+court.
 
 While Wilhelm was performing one of the Baron's guests, Vicomte Henri
 de Malmont by name, threw a dagger at him.  While Wilhelm was not
@@ -551,10 +547,9 @@ While Wilhelm distracts his new found friend Debb departs after Luca.
 After a bit we hear dogs and Antoine says the beaters and huntsmaster
 will be out setting traps.
 
-Wilhelm and I, along with the last of the gate guards, heads
-down a well maintained path towards the lodge.  A little way
-along we both attack the guard, slaying him, and hide the
-body in the trees.
+Wilhelm and I, along with the last of the gate guards, heads down a
+well maintained path towards the lodge.  A little way along we both
+attack the guard, slaying him, and hide the body in the trees.
 
 From the distance we can hear horns, the baying of hounds and other
 comotion, so we push on and reach the lodge.  The call has gone up so
@@ -562,10 +557,9 @@ I crash though a window before it can be secured by shutters, the
 servant fleeing before me.  Wilhelm follows, his dash across from the
 trees not noticed by the group at the main entrance.
 
-Inside we sneak along a corridor, ducking into a side room
-near the entrance.  From outside a bloody and enraged Luca
-starts rending the door with his axe while Debb screams
-the Red Cap will take them all.
+Inside we sneak along a corridor, ducking into a side room near the
+entrance.  From outside a bloody and enraged Luca starts rending the
+door with his axe while Debb screams the Red Cap will take them all.
 
 Inside mutiny and chaoas reign and I attempt to surprise Serge with a
 crafty crossbow attack.  He charges us and I manage to duck and strike
@@ -601,3 +595,198 @@ I contemplate the breaking in a new pair of travelling boots
 hand crafted by Antoine.
 
 ![Boots](boots.png){width=90%}\
+
+## Session 6 - 2026.05.27
+
+> As the heroes proceed to the great southern city of Lussan a request
+> reaches them by rider.  Following their recent success with the
+> cursed temple and their skill navigating the Foret de Tarascon,
+> could Luca and the Friar detour into the woods near Lussan to
+> investigate rumours of a band of evil outlaws who plague a little
+> used forest road.
+
+> The messenger carries a letter from the Baron de Latour commanding
+> the people of a nearby village to offer all accommodation and
+> support in this endeavour.
+
+> You’ve dealt with several such bands to date so it should be a
+> matter of little import.
+
+> Debb and Wilhelm meanwhile have an invitation sent by messenger from
+> Lussan to attend a ball in support of Yslen the Magnificent and her
+> band of players.  So basically they’re staff but a ball is a ball.
+> The ball incidentally is being thrown at the mansion of the
+> charismatic yet reclusive Chevalier de Carpathie, a Carpathian
+> nobleman by name Ciprian Albescu.  Not that it matters since it’s
+> offscreen.
+
+- Approching Lussan
+
+- Nearby village Chames du Bois
+
+- Summertime and the living is easy
+
+![Country Road](countryroad.jpg){width=90%}\ 
+
+
+- Road was cobbled
+
+- Stop for lunch in a shady glade
+
+- Know the bandits is after the village
+
+
+
+- There is a stream and shrine after that, seems to be holy
+
+- Fellow comes down the road with a mule pulling a cart, carrying
+  wrapped packages and bottle
+
+- Gilles is a peddlar and knife sharpener
+
+- Traveller indicates a holy sign when hear about the bandits
+
+- Traveller speaks that the bandits are men that take on
+the form of beasts
+
+- The town has a large inn as it used to be busy trading town
+
+- Head to the village after a couple of hours of
+travel
+
+- Stream goes through the middle of the town
+
+- The Leaping Fish is the inn
+
+- Girard is the landlore with his some Mattieu
+
+- Gerrard has massive sideburns but looks haggard
+
+- Garden area at the back of the inn that look over the stream
+
+- There is a couple of dogs
+
+- His daughter, Jacquette, has been missing for the last three months
+
+- She packed her finest cloths and left to the west
+
+- Darked haired and beautiful, bored of living in the village and a
+  little wild
+
+- Head a couple of hours to the west, the stream is fast running
+but can be forded
+
+- Shrine is on this side and is well kept
+
+- Bucket on a windlass crosses the stream
+
+- Sense we are being watched across the stream
+
+- Light censor to hide out passage
+
+- Travellers came through a month back and had lost one of the number
+and headed south to La Tour
+
+- Few people gone missing, Old Guiot, the Cunning Man and his servant
+  Adam
+
+- Get half a dozen wine jugs to fill with the stream water
+
+- Attacks only happen in the hours of darkness
+
+- Woodsman cabin further on then a ruin of a stone watchtower
+
+- Reaches a much larger road that cuts through the forest
+
+- Travel light as the others return to the village
+
+- Find a corpse of a deer that has been torn apart and killed last
+night by a pack of creatures
+
+- Find a corpse of a headless rabbit draped over a treelimb
+
+- Scent that killed the rabbit is not the same as that killed the rabbit
+
+- Rex tracks the scent
+
+- Find dolman or cave made from rocks and we hear a man's voice
+
+- There is old hermit and Luca pulls him out into the sun and
+pours holy water over him
+
+- Vermin swamp from him and his cries out "Spare Old Guiot"
+
+- Adam roves the wood as a madman
+
+- Three bandits, Guillaume, Robert et Henri, the three 'bandits', who
+serves a master who has gone to Lusan
+
+- Old Guiot went across the river as he heard there are powers
+
+- Henri wooed Jaquette
+
+- The bandits in the woodsman cabin
+
+- It is large and single storied
+
+- There are several rooms to the place
+
+- Luca sneaks up and it dark and musty inside
+
+- There is a kitchen and a large amount of stray
+
+- At the back there a large barn
+
+- Luca bars the doors and sets fire to the place
+
+- Three curled up in the hay in the middle of cabin
+
+- Set fire to the place
+
+- Light the censor and push the smoke
+
+- Big man with red hair with a mattock
+
+- Weedy man
+
+- Pour holy water over weedy man
+
+- Strike weedy man
+
+- Behead both and burn the bodies
+
+- Untie Old Guiot
+
+- Follow the trail and heading west
+
+- Adam was lured out by old Guiot
+
+- Use the fingerbone to remove the curse
+
+- Adam dies in peace
+
+- Follow the person who ran and reach the ruined tower
+
+- Big enough for a large cart
+
+- Collect some wood
+
+- The mouse stabs the man
+
+- Hear a woman's voice
+
+- Shady because trees grown up inside
+
+- Handsome man with a dagger
+
+- Use holy water on him
+
+- Behead and burn the bodies
+
+- Search the tower and find a chest
+
+- Next few days collect the stolen good
+
+- Old Guiot used magic to spy on people
+
+
