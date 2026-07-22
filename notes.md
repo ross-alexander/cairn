@@ -140,7 +140,7 @@ so each receive two talens.  We are recommended the Hungry Cock by
 Martin as a place to lodge for the night.
 
 Spend the remainder of the day shopping, encountering a number of
-strange people including Talak the Thred Merchant and Lady Snika.
+strange people including Talak the Thread Merchant and Lady Snika.
 
 ![Book](old-book.jpg){width=100%}\ 
 
@@ -244,10 +244,9 @@ An ambush and melee ensue and both cultists are rightfully slain.  The
 corpse is that of a merchant who was in Latour-Rose for the faire, by
 the name of Vincent Guerin.
 
-Leaving the stream and grisly occupants we return back and
-after an hour and a half reach a stone wall.  Beyond is
-some sort of chapel or temple, and the sounds of a couple
-talking.
+Leaving the stream and grisly occupants we return back and after an
+hour and a half reach a stone wall.  Beyond is some sort of chapel or
+temple, and the sounds of a couple talking.
 
 Another melee ensues with one of the cultists, a woman of unknown
 description, animating two corpses with foul necromancy.  I destroy
@@ -281,7 +280,7 @@ to the road by night fall.  The following day we return to Latour-Rose
 and hand over the captive cultists.  Later we are feasted by the town
 and my spend items replaced by the church.
 
-# Session 4
+## Session 4
 
 After a short discussion it is decided Wilhelm should hold the
 Lightsucker candle, as nobody else wanted to be associated with such
@@ -779,7 +778,6 @@ there is an entrance large enough for a large cart to pass through.
 
 ![Tower](ruined-tower.jpg){width=100%}\ 
 
-
 We collect some wood and once again sent in the mouse of scout.
 Before the mouse can return there is a man's shout and a woman's voice
 in reply.  We charge in and it surprisingly shady, with trees
@@ -803,4 +801,155 @@ We tell the village of Old Guiot and Adam, and it turns out he used to
 spy on people with his magic, but of Jacquette nothing is said except
 that nothing was seen of her and she must of made it through safely
 and is living a new life elsewhere.
+
+## Session 7 - 2026.07.20
+
+>A deadly beast walks the cobbled streets of Lussan. Reports abound of
+>a large and powerful beast prowling the streets after dark. Few have
+>seen it and those who have only fleetingly. It’s roar rebounds from
+>the tall buildings of the city and many have reported a sense of
+>being watched and even stalked. The city’s bars and cafes shut early
+>and partygoers hurry home early, travelling in groups.
+
+>The heroes meanwhile rest at the questionably famed Dancing House, a
+>mansion now run to seed in a once-fashionable district, so named as
+>it is said to be haunted or ensorcelled and objects left within move
+>around when no one watches them.
+
+>The house is run by Madam Lebrun, a strict but kindly woman in her
+>60s, still handsome. She acts as mother and grandmother to a changing
+>roster of artists, entertainers and chancers who risk the house’s
+>curious reputation.
+
+>Yslen the Magnificent and her fellow players are guests here and have
+>vouched for Debb, Wilhelm and their friends.
+
+![Jug Dancing House](dancing_house.jpg){width=100%}\
+
+- Madame Lebrun, strict but kindly in her late 60s, still handsome
+
+- Wilhelm
+- Debbs
+- Johannas
+
+- Yslen the Magnificent, dancer
+- Breagle the Strong
+- Eloise the singer
+
+- Burning red eyes, tongue of flame, size of a horse
+
+- Maid Constanza
+
+- Guard at the door, gearing a gambeson and wielding a mace, Landri,
+  seargent of the guard
+
+- Given a drink of liquior, taking from a chest in one of the waiting
+  rooms
+
+- Creature seems to be following women and serving folk, one is a
+  noble maiden
+
+- Party performed at an engagement party
+
+- Sighting has been plotted around the Dancing House
+
+- Beast arrived around a week ago
+
+- Itzia Sagues, a small, muscular, dark woman, striking and intense. A
+  gifted dancer
+
+- Heloise Guizet, a strikingly beautiful dark haired woman in her
+  early 30s, blessed with a voice of remarkable grace
+  
+- Other guests include Giraud Amoudry, a tall, blond and handsome
+  lutenist and Ugos Charron, a short, dark, plain man who performs as
+  tumbler and clown.
+
+- Plus various other musicians, entertainers, staff and others of
+  lesser note
+
+- Go to the cathedral, not complete
+
+- Meet Bishop Goncourt, a plump man with a cheerful man
+
+- Get a parcel of blessed spice
+
+- Debbs ends up a servant of Itzia
+
+- Debbs checks out the attic and is scared away by some levitating boxes
+
+- Wilhelm magically scrying on people
+
+- Can hear high pitched chitter chatter
+
+- Eloise plotting getting back at a woman
+
+- Sounds of lots of small feet from outside
+
+- Hear voices of thugs from outside, talking about Martin
+
+- Large purple tent structure
+
+- Cat ginger Tom, Balthazar
+
+- Large purple gazebo set up in the courtyard
+
+- Bazaar of Hearts Desire, formally Talak the Thread Merchant
+
+- Nefertit - Beautiful simese cat
+
+- Light censor and sing a lulaby
+
+- Wilhelm sends out an illusion and two thugs attack it
+
+- Luca bash their two heads together
+
+- Three more appear and the mice hassle them
+
+- Wilhelm chases one down and he surrenders
+
+- 8 in total, Hugo is the ring leader and is the smart one, 5 currently
+  and 3 were going to turn up later at dusk
+
+- Working for Martin and M d'Salice
+
+- Lady Snika is in the Bazaar
+
+- Let them confer and wilhelm scries on them
+
+- Federic was the one that ran into the tent
+
+- Give them some silver and Wilham cuts Hugo's hand
+
+- Hugo loses a number of fingers
+
+- Debb's hearts desire was to be the best pupil
+
+- Debb starts to dance and loses her self awareness
+
+- Lady Snika has a pet pig and dog
+
+- Sing Evensong and Grace
+
+- Juggler goes in and return handsome man
+
+- Itzia dances along the tables
+
+- Luca dances with Debbs and others join
+
+- See huge creature on the roof, with green eyes, maybe the size of a
+  wolf with a sinous tail
+
+- Huge black cat, the size of a panther, attempt to freeze it in place
+  with the finger bone but it fails, the beast looks intelligent
+
+- Wilhelm charms it but it runs off, almost knocking him down
+
+- Evening comes to the close
+
+- Three thugs turn, eat the feast then wander off
+
+- Willhelm will always be the center of attention
+
+
 
