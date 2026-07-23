@@ -826,130 +826,169 @@ and is living a new life elsewhere.
 
 ![Jug Dancing House](dancing_house.jpg){width=100%}\
 
-- Madame Lebrun, strict but kindly in her late 60s, still handsome
+I arrive in Lussan, having travelled from Chames du Bois with Luca and
+company.  My companions decide they want to see the city first while I
+head directly to the Dancing House.
 
-- Wilhelm
-- Debbs
-- Johannas
+There I'm met by Wilhelm and Debbs, who tells me several old
+aquaintences are also staying in the House, in particular Yslen the
+Magnificent, Breagle the Strong and Eloise.
 
-- Yslen the Magnificent, dancer
-- Breagle the Strong
-- Eloise the singer
+The streets and the House are abuzz with rumours of the Beast, with
+descriptions extending to burning red eyes, a tongue of flame
+and the size of a horse.
 
-- Burning red eyes, tongue of flame, size of a horse
+I hear a knock at the door and is answered by the maid, Constanza,
+who declares that because the Lady of the House is absent it our
+duty to host the guard at the door.
 
-- Maid Constanza
+The man at the door is gaering a gambeson and wielding a mace, and
+introduces himself an Landri, Sergeant of the Guard.  We retreat
+to drawing room off the vestibule, and Landri immediate goes to
+one of the chests in the room and takes out a bottle of liquor
+and some small drinking vessels.
 
-- Guard at the door, gearing a gambeson and wielding a mace, Landri,
-  seargent of the guard
+![Landri](landri.jpg){width=100%}\
 
-- Given a drink of liquior, taking from a chest in one of the waiting
-  rooms
+Landri tells us the creature has seen seen following women and serving
+folk, including a young noble maiden that Willhelm and Debbs has
+recently performed for at her engagement party.
 
-- Creature seems to be following women and serving folk, one is a
-  noble maiden
+He states the sighting have been plotted and center around the Dancing
+House and has only been seen in the last week, and notes with little
+subtlety that the party also arrived a week ago.
 
-- Party performed at an engagement party
+After leaving I encounter some of the other guests of the House.
+First was Itzia Sagues, a small, muscular, dark woman, striking and
+intense.  A gifted dancer by all accounts, and able to generate
+drama from the most mundate activity.
 
-- Sighting has been plotted around the Dancing House
-
-- Beast arrived around a week ago
-
-- Itzia Sagues, a small, muscular, dark woman, striking and intense. A
-  gifted dancer
-
-- Heloise Guizet, a strikingly beautiful dark haired woman in her
-  early 30s, blessed with a voice of remarkable grace
+Next was Heloise Guizet, a strikingly beautiful dark haired woman in
+her early 30s, blessed with a voice of remarkable grace.  I must trade
+songs but I doubt her repotoire and mine have much overlap.
   
-- Other guests include Giraud Amoudry, a tall, blond and handsome
-  lutenist and Ugos Charron, a short, dark, plain man who performs as
-  tumbler and clown.
+Other guests include Giraud Amoudry, a tall, blond and handsome
+lutenist and Ugos Charron, a short, dark, plain man who performs as
+tumbler and clown.  I'm told there are other in House, musicians,
+entertainers, staff and others of lesser note.
 
-- Plus various other musicians, entertainers, staff and others of
-  lesser note
+I take my leave and visit the cathedral, magnificient even if still
+not complete, where I mean Meet Bishop Goncourt, a plump man with a
+cheerful man.  I entreat him for some blessed spice for my censor and
+in return I promise to return and sing after supper some evening.
 
-- Go to the cathedral, not complete
+Returning I hear Debbs was caught spying on Itzia and was caught and
+forced to become her servent, before checking out the attic and
+being scared away by some levitating boxes.
 
-- Meet Bishop Goncourt, a plump man with a cheerful man
+In the mean time Willhelm scrys around House, and hears variously high
+pitched chitter chatter, Eloise plotting getting back at a woman,
+sounds of lots of small feet from outside and voices of thugs from
+outside, talking about Martin.
 
-- Get a parcel of blessed spice
+Luca turns us and after some various distractions we head out
+into the square in front of the house, where a large purple
+gazebo has been errected in a surprising short period of time.
 
-- Debbs ends up a servant of Itzia
+![Balthazar](balthazar.jpg){width=100%}\ 
 
-- Debbs checks out the attic and is scared away by some levitating boxes
+A large and somewhat fat ginger tom, Balthazar, follows us out, and we
+are greeted by Talak the Thread Merchant, who is now running the
+Bazaar of Hearts Desire.
 
-- Wilhelm magically scrying on people
+![Nefertiti](nefertiti.jpeg){width=100%}\ 
 
-- Can hear high pitched chitter chatter
+A beautiful siamese cat, apparently called Nefertiti, also appears and
+accosts Willhelm for attention before a group of mice come out of the
+Bazaar and become her focus.
 
-- Eloise plotting getting back at a woman
+Two thugs are startled from their hiding place nearby and charge
+towards us.  I light my censor a sing a gently lulaby, hoping to
+engenger peace on the evolving fracas.
 
-- Sounds of lots of small feet from outside
+Willhelm creates his mirror image and the thugs attempt to attack it.
+Distracted by the failure of their attacks they fail to notice Luca
+rounding on them, where upon he proceeds to bash their heads together
+and knock them both out.
 
-- Hear voices of thugs from outside, talking about Martin
+Three more appear and the mice hassle them.  I give up on any the idea
+of a peaceful resolution and tackle one to the ground, while one flees
+into the Bazaar and the last attempts to exit stage left, only be
+chased down by a Willhelm and his mirror, and surrenders.
 
-- Large purple tent structure
+After much argument, mostly involving Willhelm threating
+to chop fingers off, with Luca favouring bribery with
+wine and coin, we determine that there are eight
+in total, including their leader Ugo, whom I had tackled
+earlier.  Their plan was to lay in wait until dust, when
+the remaining three would arrive, and then accost us.
 
-- Cat ginger Tom, Balthazar
+It is clear they are working for M d'Salice, who continues to hold a
+grudge over the sale of the glassware in Latour Rose.  We offer them
+coin to leave us alone and leave the room to allow them to confer.
+Scrying on them once more and their leader, Ugo, tries to retain them
+with a promise of double or triple pay, but the others want no more
+part in the caper.  They wander what happened to Federic, who was last
+seen fleeing into the Bazaar.
 
-- Large purple gazebo set up in the courtyard
+Returning we agree to give them a silver each for their co-operation
+and Willhelm cuts their bonds with his sword, but slashes Ugo's hand
+when it comes his turn.  I bandage the wound and give him an extra
+silver.  I'm completely unconvinced it was any kind of accident and I
+worry Willhelm is possibly heading down a dark path.
 
-- Bazaar of Hearts Desire, formally Talak the Thread Merchant
+We escort the group outside and greeted by Talek and Lady Snika, who
+has her pet dog and pig with her.  Apparently Debbs had already
+gone in and been granted a heart's desire.  Ugo decides to spend
+some of his silver and enters while Talek tries to talk Luca
+into going in.
 
-- Nefertit - Beautiful simese cat
+Another thug entered the Bazaar and returned shortly after carrying a
+sack, from which the sounds of a clucking chicken could be heard.
+Rumour later has it that the chicken will lays every day for as long
+as it is cared for, potentially forever.
 
-- Light censor and sing a lulaby
+![Tables with food](food-table-2.jpeg){width=100%}\ 
 
-- Wilhelm sends out an illusion and two thugs attack it
+I am unable to go in but instead is granted a street festival that
+evening.  Tables and food are set up in the square and people start
+turning up.  I sing evensong and grace, only disturbed by the screams
+of Ugo from inside the Bazaar.  Afterward the party gets started, with
+Debbs dancing like nobody is watching.
 
-- Luca bash their two heads together
+At some point the juggler enters the Bazaar and returns a tall
+handsome man, proving not all desires have a cost, although I suspect
+payment will come some time in the future.
 
-- Three more appear and the mice hassle them
+Itzia appears and dances across the tables with panache, leaping
+from table to table like a wild fire.  While the music continues
+Debbs dances, unaware she is totally outclassed, and Luca
+saves her from the situation by getting up and dancing himself,
+which pulls the crown to its feet.
 
-- Wilhelm chases one down and he surrenders
+Later on Willhelm spies a huge creature on the roof of the Dancing
+House, with green eyes, maybe the size of a wolf with a sinous tail.
 
-- 8 in total, Hugo is the ring leader and is the smart one, 5 currently
-  and 3 were going to turn up later at dusk
+The beasts leaps down onto one of the tables and it turns out to be a
+huge black cat, the size of a panther.  I attempt to freeze it in
+place with the finger bone but it fails. The beast is clearly
+intelligent as it is aware of actions and looks in my direction.
 
-- Working for Martin and M d'Salice
+Wilhelm charms it but it runs off, almost knocking him down as it
+goes.  I suspect it will return once it completed what ever it has in
+mind for the evening.
 
-- Lady Snika is in the Bazaar
-
-- Let them confer and wilhelm scries on them
-
-- Federic was the one that ran into the tent
-
-- Give them some silver and Wilham cuts Hugo's hand
-
-- Hugo loses a number of fingers
-
-- Debb's hearts desire was to be the best pupil
-
-- Debb starts to dance and loses her self awareness
-
-- Lady Snika has a pet pig and dog
-
-- Sing Evensong and Grace
-
-- Juggler goes in and return handsome man
-
-- Itzia dances along the tables
-
-- Luca dances with Debbs and others join
-
-- See huge creature on the roof, with green eyes, maybe the size of a
-  wolf with a sinous tail
-
-- Huge black cat, the size of a panther, attempt to freeze it in place
-  with the finger bone but it fails, the beast looks intelligent
-
-- Wilhelm charms it but it runs off, almost knocking him down
-
-- Evening comes to the close
-
-- Three thugs turn, eat the feast then wander off
-
-- Willhelm will always be the center of attention
+![Beast of Lussan](black-panther-jaguar.jpg){width=100%}\
 
 
+The beast's arrival and departure ends the evening's celebrations and
+as people leave I notice three thugs, who must have turned up while I
+was singing at the start, and have eaten their fill before wandering
+off, looking both satisfied and a little confused.
 
+Willhelm decides to take up Talek's offer as they will be gone in the
+morning and is granted the wish, or curse, that he will always be the
+center of attention.
+
+As we headed back in to the Dancing House I noticed Luca was missing
+his cloak and I suspect it is now in the posession of Lady Snika.
