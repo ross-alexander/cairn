@@ -140,7 +140,7 @@ so each receive two talens.  We are recommended the Hungry Cock by
 Martin as a place to lodge for the night.
 
 Spend the remainder of the day shopping, encountering a number of
-strange people including Talak the Thread Merchant and Lady Snika.
+strange people including Kallak the Thread Merchant and Lady Snikka.
 
 ![Book](old-book.jpg){width=100%}\ 
 
@@ -893,7 +893,7 @@ gazebo has been errected in a surprising short period of time.
 ![Balthazar](balthazar.jpg){width=100%}\ 
 
 A large and somewhat fat ginger tom, Balthazar, follows us out, and we
-are greeted by Talak the Thread Merchant, who is now running the
+are greeted by Kallak the Thread Merchant, who is now running the
 Bazaar of Hearts Desire.
 
 ![Nefertiti](nefertiti.jpeg){width=100%}\ 
@@ -936,7 +936,7 @@ when it comes his turn.  I bandage the wound and give him an extra
 silver.  I'm completely unconvinced it was any kind of accident and I
 worry Willhelm is possibly heading down a dark path.
 
-We escort the group outside and greeted by Talek and Lady Snika, who
+We escort the group outside and greeted by Talek and Lady Snikka, who
 has her pet dog and pig with her.  Apparently Debbs had already
 gone in and been granted a heart's desire.  Ugo decides to spend
 some of his silver and enters while Talek tries to talk Luca
@@ -990,116 +990,130 @@ morning and is granted the wish, or curse, that he will always be the
 center of attention.
 
 As we headed back in to the Dancing House I noticed Luca was missing
-his cloak and I suspect it is now in the posession of Lady Snika.
+his cloak and I suspect it is now in the posession of Lady Snikka.
 
 ## Session 8 - 2026.08.18
 
-- Go to bed early in the morning
+It was well after midnight before we all turned in, exhausted
+from the long evening of song and dance and choas.  I tried
+to sleep but it took a long time, for some reason Wilhelm's
+movements and noises kept atracting my attention.
 
-- The Beast breaks into the room around 5am and tries to kit down with
-  Wilhelm
+Some time before dawn I'm awoken by a loud whisper from Wilhelm and in
+the dim light I spy a pair of almost radient green eyes hidden in
+shadowy blackness from across the room.
 
-- The Beast leaps away through the open window
+I did not respond and Luca merely turned over in his sleep.  After
+some low growls and thuds the Beast bounds away, leaping through the
+open window and into the night.
 
-- See some eyes from the stove in the room
+While trying to get back to sleep I spy a pair of eyes from the stove.
+I put out some old buscuits on the floor and a small figure appears
+and takes the food before disappearing back into the stove.  Such
+curiousities in the Dancing House no longer surprise me.
 
-- A small figure comes out and takes the food I have put out
+![House Gnome](house_gnome.jpg){width=100%}\
 
-- Wake late in the morning
+I finally drift off to sleep and wake late in the morning.  In
+an ordinary inn the time for breakfast would be long past but
+the artists who mostly inhabit the House seem to be perienally
+late risers.
 
-- Go down for breakfast
+Ugos Charron, the previously a plain an rather small man, now tall and
+darkly handsome, appears at our table, wearing clothes now far too
+small from him.  This juggling and acrobatic skills seem somewhat
+diminished although it may just be he is unused to his new physique.
+He seems extremely pleased with the goblin's gift, and indead it a
+remarkable transformation.  I advise him to find a tailor with haste
+as the cloths look equally uncomfortable and seem on the verge of
+malfunctioning.
 
-- A tall dark handsome man wearing cloths too small
+Breakfast ends as word spreads across the room that a young serving
+women has been discovered dead nearby, her head torn off and all of
+her blood drained from her body.
 
-- Hear about a serving woman who has had her torn off and all the
-  blood drained
+We all head over to the scene of the crime, which is guarded by
+Sergeant Landri.  After a short examination it is clear the body has
+been dumped, for there is no blood at the scene.  After blessing
+the corpse Debbs reluctantly agrees to dowse for the missing
+head and we head to a nearby well.
 
-- Head over to the scene of the crime
+After drawing a bucket of water the dowse indicates directly down and
+peering into the well I see a severed head floating in the dark waters
+below.  After several attempts we manage to capture the head in the
+bucket and bring it to the surface where I wrap it in a cloth and take
+it to the sergeant.  It is clear that is not been cleanly severed, nor
+clawed off, but instead torn off with great force.
 
-- Landri is guarding over the body
+Returning to the Dancing House there is an invitation from Le
+Chevalier Maurois on the occasion of his engagement to Madame
+Esclarmonde de Rochefort.  I had not heard of either of these
+people but Wilhelm is invited to perform so maybe we are just
+there to fill out the numbers.
 
-- Body has been drained of blood
+Debbs notes it will be a full moon tomorrow night and her dress will
+be wearable.  In our room a large wolfskin cloak has appeared.  It
+looks very comfortable but too warm to worn inside.
 
-- Bless the corpse
+Returning to the dining hall for lunch we are joined by Heloise
+Guizet.  She too has been invited to the engagement ball but has a
+very negative opinion of the chevalier, later admitting they had been
+seeing each other but was dumped.  I form an unfavourable view of the
+man myself for very few of the nobles I have met have been people of
+morality.
 
-- Body has been dumped as there is no blood about
+In the afternoon I head to the cathedral to try to do some research
+and are led to a small dark cell deep beneath the great building.
+There I am locked in with many dark and terrible works of art.
+Lighting my censor for comfort and keeping the fingerbone nestled
+inside my tunic against my skin wards off the darkness but it still a
+fearful room.
 
-- Debb uses a bucket of water from a well and dowse for the head of
-  the corpse
+After reading the Great Book of the Unquiet Undead I gain an
+understanding of revenants, which are pallid creatures, bloated like
+ticks when they have fed recently, slain only by decapitation or fire,
+they otherwise heal all wounds unless staked through the heart. All
+those they slay rise in turn as similar abominations.
 
-- The head is floating in the well
+![Book of the Unquiet Dead](unquiet_dead.jpg){width=100%}\
 
-- Fish up the head and wrap it in cloth
+Returning in the evening word reaches us the victim was an under maid
+that the chevalier, missing for the last three days.  They also worked
+for Monsieur Henri de Courtes, rich merchant who has been kind to us
+when we were but new.
 
-- Looks like the head has been ripped off by a great force
+At supper Itzia Sagues body shames Debbs at the table but even her
+poison could not destroy the mood, as I sing a jolly drinking song
+with Heloise Guizet.  Later Lady Snikka turns up after the dinner and
+takes Luca's cap and boot.
 
-- Return to the Dancing House
+After supper we head back up to the room, lead by Balthazar, who
+reclaims the room from the Beast's visit.  Luca has paid for a
+seperate room for him and myself and we leave Wilhelm to himself.
 
-- There is an invitation to a ball by 
+In the morning Luca and I head out at dawn to a nearby copses
+and collect some wooden stakes, flowers, herbs, pine cones
+and needles, to be used at the funeral after in the morning.
 
-- It will a full moon
+Returning Wilhelm says the beast returned during the night but beyond
+destroying a chest did no harm.  Sadly word reaches the House that
+another body has been found, a young milkmaid called Lize, who
+lived not far away.
 
-- A large wolfskin cloak has been left in the room
+Luca talks to her distraught father, who states she often went out off
+an evening, believing she was being courted by a wealthy young man,
+for she often returned with coin.  Luca and I silently draw the
+same conclusion and set to to speak to her friend Sabine.
 
-- Heloise Guizet joins us for lunch
+Sabine confides in Luca that they we on the game as working girls and
+Lize broke one of the rules, getting into a carriage two nights
+previous.  She manages to do a crude drawing of the carriage's
+livery but it not one we immediately recognise.
 
-- Thinks of himself as young man but isn't, sounds like a bastard
+![Carriage](carriage_night.jpg){width=100%}\
 
-- Feast is for his betroval to another women
-
-- Head to the cathedral to try to do some research
-
-- Enter dark cell with the dark book
-
-- Read the Great Book of the Unquiet Undead
-
-- Reach of revenants, either pale and palid or bloated, either slain
-  by decapitated or burnt
-
-- Cannot heal while there is a stake in the heart
-
-- Pallid creatures, bloated like ticks when they have fed recently,
-  slain only by decapitation or fire, they otherwise heal all wounds
-  unless staked through the heart. All those they slay rise in turn as
-  similar abominations
-
-- The victim was an under maid that the chevalier, missing for the
-last three days
-
-- Also worked for M d'Courte
-
-- Monsieur Henri de Courtes, rich merchant who has been kind to the
-  heroes when they were but new
-  
-- Itzia Sagues body shames Debbs at the dinner
-
-- I sing a jolly drinking song with Heloise Guizet
-
-- Lady Snika turns up after the dinner and takes Luca's cap and boot
-
-- Head up to the room and Balthazar reclaims the room
-
-- Wilhelm is joined by the beast over night
-
-- Head out to the woods to collect stakes and herbs and needles
-
-- Next morning a new body, a young milkmaid called Lize
-
-- Luca talks to her father
-
-- Father says was being courted but she was often returned with coin
-
-- Her friend Sabine
-
-- Lize got into a carriage two nights back, which has broken one of
-the rules
-
-- Get a crude drawing of the livery
-
-- Another young women missing, an inn keeper's daughter, missing five
-nights ago
-
-- Went out in the evening, putting out some rubbish, and went
-missing
-
-- Found one shoe and there were some carriage tracks
+We enquire of any other missing people and hear that there is another
+nother young women missing, an inn keeper's daughter, some missing
+five nights ago.  She went out in the evening, putting out some
+rubbish, and went missing.  The area was searched but they only found
+a single shoe and some carriage tracks.
