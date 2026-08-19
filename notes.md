@@ -916,12 +916,11 @@ of a peaceful resolution and tackle one to the ground, while one flees
 into the Bazaar and the last attempts to exit stage left, only be
 chased down by a Willhelm and his mirror, and surrenders.
 
-After much argument, mostly involving Willhelm threating
-to chop fingers off, with Luca favouring bribery with
-wine and coin, we determine that there are eight
-in total, including their leader Ugo, whom I had tackled
-earlier.  Their plan was to lay in wait until dust, when
-the remaining three would arrive, and then accost us.
+After much argument, mostly involving Willhelm threating to chop
+fingers off, with Luca favouring bribery with wine and coin, we
+determine that there are eight in total, including their leader Ugo,
+whom I had tackled earlier.  Their plan was to lay in wait until dust,
+when the remaining three would arrive, and then accost us.
 
 It is clear they are working for M d'Salice, who continues to hold a
 grudge over the sale of the glassware in Latour Rose.  We offer them
@@ -992,3 +991,115 @@ center of attention.
 
 As we headed back in to the Dancing House I noticed Luca was missing
 his cloak and I suspect it is now in the posession of Lady Snika.
+
+## Session 8 - 2026.08.18
+
+- Go to bed early in the morning
+
+- The Beast breaks into the room around 5am and tries to kit down with
+  Wilhelm
+
+- The Beast leaps away through the open window
+
+- See some eyes from the stove in the room
+
+- A small figure comes out and takes the food I have put out
+
+- Wake late in the morning
+
+- Go down for breakfast
+
+- A tall dark handsome man wearing cloths too small
+
+- Hear about a serving woman who has had her torn off and all the
+  blood drained
+
+- Head over to the scene of the crime
+
+- Landri is guarding over the body
+
+- Body has been drained of blood
+
+- Bless the corpse
+
+- Body has been dumped as there is no blood about
+
+- Debb uses a bucket of water from a well and dowse for the head of
+  the corpse
+
+- The head is floating in the well
+
+- Fish up the head and wrap it in cloth
+
+- Looks like the head has been ripped off by a great force
+
+- Return to the Dancing House
+
+- There is an invitation to a ball by 
+
+- It will a full moon
+
+- A large wolfskin cloak has been left in the room
+
+- Heloise Guizet joins us for lunch
+
+- Thinks of himself as young man but isn't, sounds like a bastard
+
+- Feast is for his betroval to another women
+
+- Head to the cathedral to try to do some research
+
+- Enter dark cell with the dark book
+
+- Read the Great Book of the Unquiet Undead
+
+- Reach of revenants, either pale and palid or bloated, either slain
+  by decapitated or burnt
+
+- Cannot heal while there is a stake in the heart
+
+- Pallid creatures, bloated like ticks when they have fed recently,
+  slain only by decapitation or fire, they otherwise heal all wounds
+  unless staked through the heart. All those they slay rise in turn as
+  similar abominations
+
+- The victim was an under maid that the chevalier, missing for the
+last three days
+
+- Also worked for M d'Courte
+
+- Monsieur Henri de Courtes, rich merchant who has been kind to the
+  heroes when they were but new
+  
+- Itzia Sagues body shames Debbs at the dinner
+
+- I sing a jolly drinking song with Heloise Guizet
+
+- Lady Snika turns up after the dinner and takes Luca's cap and boot
+
+- Head up to the room and Balthazar reclaims the room
+
+- Wilhelm is joined by the beast over night
+
+- Head out to the woods to collect stakes and herbs and needles
+
+- Next morning a new body, a young milkmaid called Lize
+
+- Luca talks to her father
+
+- Father says was being courted but she was often returned with coin
+
+- Her friend Sabine
+
+- Lize got into a carriage two nights back, which has broken one of
+the rules
+
+- Get a crude drawing of the livery
+
+- Another young women missing, an inn keeper's daughter, missing five
+nights ago
+
+- Went out in the evening, putting out some rubbish, and went
+missing
+
+- Found one shoe and there were some carriage tracks
