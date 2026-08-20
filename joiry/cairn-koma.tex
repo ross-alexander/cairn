@@ -1,0 +1,39 @@
+%% ----------------------------------------------------------------------
+%%
+%% 2026-07-17: Using KOMA-Script article
+%%
+%% ----------------------------------------------------------------------
+
+\documentclass[paper=a4,fontsize=12pt]{scrartcl}
+
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{fontspec}
+\usepackage[dvipsnames,svgnames]{xcolor}
+
+\KOMAoptions{parskip=half-}
+
+\areaset{19cm}{26cm}
+
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{20mm}
+
+\setmainfont{TeXGyreChorus}
+%% \newfontfamily\customtitlefont{IM FELL English SC}
+\newfontfamily\customtitlefont[Color=Blue]{NewCMUncial10}
+
+\setkomafont{section}{\customtitlefont\large}
+\setkomafont{subsection}{\customtitlefont}
+
+%% Hide section and subsection counters
+
+\renewcommand*{\sectionformat}{}
+\renewcommand*{\subsectionformat}{}
+
+\def\tightlist{}
+
+\begin{document}
+\begin{multicols}{2}
+  \input{notes}
+\end{multicols}
+\end{document}
