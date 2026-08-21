@@ -22,9 +22,9 @@ Wilhelm the Wondrous, a conjurer of sorts, has a disarming air about
 him, with many a stranger giving him the benefit of the doubt, seemly
 out of nowhere.
 
-Last is the waif Debbs, know is local of the Country and on some
-errand to Latour-Rose.  She seems weak with weapons but her spy glass
-has come in handy many a time, for danger avoided is danger overcome.
+Last is the waif Debbs, a local of the Country and on some errand to
+Latour-Rose.  She seems weak with weapons but her spy glass has come
+in handy many a time, for danger avoided is danger overcome.
 
 # Diary of travelling in the land of Joiry
 
@@ -44,8 +44,6 @@ I bribe the wolf with a ration of dried meat, for which it was
 satisfied and disappeared into the darkness.
 
 ![Timber Wolf](timber-wolf.jpeg){width=100%}\
-
-- Use ration for wolf
 
 We travelled on into the darkness, spying what looked to be a giant on
 a hill some distance away.  We hurried on towards a flickering fire in
@@ -85,7 +83,10 @@ meal at an inn called the Leaping Fish.  I am incensed to hear a cult
 known as the Tideborn has occupied and descrated the church in the
 village.
 
-- Spent 2sp for good breakfast
+The inn did a good breakfast but at two silver pennies it was quite a
+hit on my slender purse.  While I'm used to travelling on a shoestring
+some coin will be most welcome for I do not think my threadbare
+clothing and worn out boots will survive another winter.
 
 However mindful of the valuable cargo we were carrying and our few
 numbers I held my wrath in check.  We were forced to sell one of the
@@ -144,18 +145,19 @@ strange people including Kallak the Thread Merchant and Lady Snikka.
 
 ![Book](old-book.jpeg){width=100%}\ 
 
-- Spent 1 talents buying a new set of cloths
-- Spent 1 talent on book and hourglass
-
 I purchase a new set of travelling robes and boots, an hour glass and
-a book containing local folk songs.
+a book containing local folk songs, each set costing me a talent.
+Again short on coin but happy to be clothed such I don't look like a
+rube from the country side.  I will endevour to scribe my many notes,
+scrolled on any paper or parchment I could get my hands on, onto page
+this evening.
 
-We return to the Hungry Cock and while supping out evening meal are
-set upon by Martin and a crew of thugs.  Somehow Lady Snika gets
+We return to the Hungry Cock and while supping our evening meal are
+set upon by Martin and a crew of thugs.  Somehow Lady Snikka gets
 involved and steals a boot from right off Luca's foot.  After a short
 fracas the thugs leave with the badly beaten Martin and the inn keeper
 is forced to hand over 212 silver pennies for this part in the ambush.
-We depart for fresh lodging.  In the proceedings Lady Snika and her
+We depart for fresh lodging.  In the proceedings Lady Snikka and her
 dog show they are not what they seem, but some sort of fey creatures.
 
 ## Session 3
@@ -499,7 +501,7 @@ the hunting lodge but one of the, Pierre, is a good man come upon hard
 times, and may be turned.  They are said to be lead by master huntsman,
 Serge, a brutal and cruel man.
 
-It is near moon by the time we set off and travel along the now well
+It is near noon by the time we set off and travel along the now well
 known road to the north.  At some point Luca's rodent travelling
 companion makes its appearance again, much to Antoine's surprise.
 
@@ -562,7 +564,7 @@ door with his axe while Debb screams the Red Cap will take them all.
 
 Inside mutiny and chaoas reign and I attempt to surprise Serge with a
 crafty crossbow attack.  He charges us and I manage to duck and strike
-him in his manhood, but not before Wilhelm suffers a new mortal blow.
+him in his manhood, but not before Wilhelm suffers a near mortal blow.
 I finish Serge off with a crushing blow to the back of the head and
 we are almost attacked by Luca in his red mist.
 
@@ -620,9 +622,9 @@ hand crafted by Antoine.
 > nobleman by name Ciprian Albescu.  Not that it matters since it’s
 > offscreen.
 
-Luca and myself, and our companions, are nearlying Lussan
-when we leave the main road and head towards Chames du Bois,
-while Debb and Wilhelm head directly to Lussan.
+Myself and Luca, along with our companions, are nearing Lussan when we
+leave the main road and head towards Chames du Bois, while Debb and
+Wilhelm head directly to Lussan.
 
 It is summer time now and the land is rich with fruit, berries and
 game.  The road to Chames du Bois is cobbled but has not seen much
@@ -838,9 +840,9 @@ The streets and the House are abuzz with rumours of the Beast, with
 descriptions extending to burning red eyes, a tongue of flame
 and the size of a horse.
 
-I hear a knock at the door and is answered by the maid, Constanza,
-who declares that because the Lady of the House is absent it our
-duty to host the guard at the door.
+There is hear a knock at the front door and is answered by the maid,
+Constanza, who declares that because the Lady of the House is absent
+it our duty to host the guard at the door.
 
 The man at the door is gaering a gambeson and wielding a mace, and
 introduces himself an Landri, Sergeant of the Guard.  We retreat
@@ -904,7 +906,7 @@ Bazaar and become her focus.
 
 Two thugs are startled from their hiding place nearby and charge
 towards us.  I light my censor a sing a gently lulaby, hoping to
-engenger peace on the evolving fracas.
+engender peace on the evolving fracas.
 
 Willhelm creates his mirror image and the thugs attempt to attack it.
 Distracted by the failure of their attacks they fail to notice Luca
@@ -914,7 +916,7 @@ and knock them both out.
 Three more appear and the mice hassle them.  I give up on any the idea
 of a peaceful resolution and tackle one to the ground, while one flees
 into the Bazaar and the last attempts to exit stage left, only be
-chased down by a Willhelm and his mirror, and surrenders.
+chased down by a Willhelm and his mirror image, and surrenders.
 
 After much argument, mostly involving Willhelm threating to chop
 fingers off, with Luca favouring bribery with wine and coin, we
@@ -936,11 +938,10 @@ when it comes his turn.  I bandage the wound and give him an extra
 silver.  I'm completely unconvinced it was any kind of accident and I
 worry Willhelm is possibly heading down a dark path.
 
-We escort the group outside and greeted by Talek and Lady Snikka, who
-has her pet dog and pig with her.  Apparently Debbs had already
-gone in and been granted a heart's desire.  Ugo decides to spend
-some of his silver and enters while Talek tries to talk Luca
-into going in.
+We escort the group outside and greeted by Kallek and Lady Snikka, who
+has her pet dog and pig with her.  Apparently Debbs had already gone
+in and been granted a heart's desire.  Ugo decides to spend some of
+his silver and enters while Kallek tries to talk Luca into going in.
 
 Another thug entered the Bazaar and returned shortly after carrying a
 sack, from which the sounds of a clucking chicken could be heard.
@@ -966,7 +967,7 @@ saves her from the situation by getting up and dancing himself,
 which pulls the crown to its feet.
 
 Later on Willhelm spies a huge creature on the roof of the Dancing
-House, with green eyes, maybe the size of a wolf with a sinous tail.
+House, with green eyes, maybe the size of a wolf, with a sinous tail.
 
 The beasts leaps down onto one of the tables and it turns out to be a
 huge black cat, the size of a panther.  I attempt to freeze it in
@@ -985,7 +986,7 @@ as people leave I notice three thugs, who must have turned up while I
 was singing at the start, and have eaten their fill before wandering
 off, looking both satisfied and a little confused.
 
-Willhelm decides to take up Talek's offer as they will be gone in the
+Willhelm decides to take up Kallek's offer as they will be gone in the
 morning and is granted the wish, or curse, that he will always be the
 center of attention.
 
@@ -1023,7 +1024,7 @@ Ugos Charron, the previously a plain an rather small man, now tall and
 darkly handsome, appears at our table, wearing clothes now far too
 small from him.  This juggling and acrobatic skills seem somewhat
 diminished although it may just be he is unused to his new physique.
-He seems extremely pleased with the goblin's gift, and indead it a
+He seems extremely pleased with the goblin's gift, and indead it is a
 remarkable transformation.  I advise him to find a tailor with haste
 as the cloths look equally uncomfortable and seem on the verge of
 malfunctioning.
